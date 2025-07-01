@@ -1,11 +1,10 @@
 import json
 import os
 
-# مسیرها
+# paths
 INPUT_FILE = "processed_chunks/chunks.jsonl"
 OUTPUT_FILE = "processed_chunks/cleaned_chunks.jsonl"
 
-# کاراکترهای مشکوک (قابل گسترش)
 BAD_CHARS = ["�", "\u200c", "\u200e", "\u202a", "\u202c"]  # ZWNJ، RTL، LRM...
 
 def count_bad_chars(text):

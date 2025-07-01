@@ -1,23 +1,28 @@
 import streamlit as st
 
 # --- Contact Form Section ---
+# This function shows a modal dialog with contact info
 @st.experimental_dialog("Contact Me")
 def show_contact_form():
     st.markdown("**📧 Email:** hadisemoghadam8@gmail.com")
     st.markdown("**🔗 GitHub:** [hadisemoghadam8](https://github.com/hadisemoghadam8 )")
 
-
 # --- Introduction ---
+# Main title with your name
 st.title("Hadiseh Moghadam", anchor=False)
+
+# Brief introduction about your work and interests
 st.write("💡 Working in the field of Artificial Intelligence, focusing on NLP and building intelligent Farsi chatbots using local LLMs.")
 
+# Show the contact form when the button is clicked
 if st.button("✉️ Contact Me"):
     show_contact_form()
-
 
 # --- Experience & Projects ---
 st.write("\n")
 st.subheader("Experience & Projects", anchor=False)
+
+# Highlight key projects and accomplishments
 st.write(
     """
     - Developed a **bilingual (Farsi-English) therapeutic chatbot** using local LLMs such as **Zephyr 7B** and **Dorna-LLaMA3**, powered by **llama.cpp** for offline execution.
@@ -31,6 +36,8 @@ st.write(
 # --- Technical Skills ---
 st.write("\n")
 st.subheader("Technical Skills", anchor=False)
+
+# List of technologies, tools, and programming knowledge
 st.write(
     """
     - **Programming**: Python (Transformers, FAISS, PyMuPDF, Streamlit, sentence-transformers), Bash

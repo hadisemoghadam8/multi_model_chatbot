@@ -5,6 +5,6 @@ MODEL_PATHS = {
     "dorna": "models/dorna-llama3-8b-instruct.Q4_K_M.gguf"
 }
 
-# مسیر فایل‌های faiss
+# Paths to FAISS index and metadata files for Persian (fa)
 FAISS_INDEX_FA = "retriever/faiss_index_fa.bin"
 FAISS_META_FA = "retriever/faiss_meta_fa.json"

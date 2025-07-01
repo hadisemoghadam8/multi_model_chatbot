@@ -146,3 +146,4 @@ if prompt := st.chat_input(txt["input_placeholder"]):
 
             # Append assistant message
     messages.append({"role": "assistant", "content": response})
+

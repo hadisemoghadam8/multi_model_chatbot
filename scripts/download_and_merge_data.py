@@ -4,13 +4,14 @@ import zipfile
 import tarfile
 import shutil
 
-# مسیرها
-download_dir = "downloads"
-extract_dir = "extracted"
-final_data_dir = "data"
+# Paths for different stages
+download_dir = "downloads"       # Folder to save downloaded files
+extract_dir = "extracted"        # Folder to extract compressed files
+final_data_dir = "data"          # Final organized data folder
 
-# لینک‌هایی که باید دانلود بشن
+# List of (URL, filename) to download
 download_links = [
+    # JSON datasets from different sources
     ("https://raw.githubusercontent.com/ajaykuma/Stress-Management-Articles/master/data/articles.json", "articles.json"),
     ("https://raw.githubusercontent.com/nikhilkumarsingh/mental-health-podcasts/main/data/podcasts_fa.json", "podcasts_fa.json"),
     ("https://raw.githubusercontent.com/FrancescoSaverioZuppichini/health-books-json/master/books/fa-books.json", "fa-books.json"),
@@ -39,44 +40,51 @@ download_links = [
     ("https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/GDP-data.json", "GDP_data.json"),
     ("https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/global-temperature.json", "global_temperature.json"),
 ]
+# Step 1: Download files
+os.makedirs(download_dir, exist_ok=True)  # Create download folder if not exists
 
-# مرحله 1: دانلود فایل‌ها
-os.makedirs(download_dir, exist_ok=True)
 for url, filename in download_links:
     filepath = os.path.join(download_dir, filename)
     if not os.path.exists(filepath):
         print(f"Downloading {filename}...")
         response = requests.get(url, stream=True)
         with open(filepath, 'wb') as f:
-            shutil.copyfileobj(response.raw, f)
+            shutil.copyfileobj(response.raw, f)  # Save file
     else:
-        print(f"{filename} already downloaded.")
+        print(f"{filename} already downloaded.")  # Skip if already exists
 
-# مرحله 2: استخراج فایل‌ها
-os.makedirs(extract_dir, exist_ok=True)
+# Step 2: Extract files (zip or tar.gz)
+os.makedirs(extract_dir, exist_ok=True)  # Create extraction folder if not exists
+
 for _, filename in download_links:
     filepath = os.path.join(download_dir, filename)
+    
     if filename.endswith(".zip"):
         with zipfile.ZipFile(filepath, 'r') as zip_ref:
-            zip_ref.extractall(extract_dir)
+            zip_ref.extractall(extract_dir)  # Extract zip files
     elif filename.endswith(".tar.gz"):
         with tarfile.open(filepath, 'r:gz') as tar_ref:
-            tar_ref.extractall(extract_dir)
+            tar_ref.extractall(extract_dir)  # Extract tar.gz files
     else:
-        print(f"Unknown file format: {filename}")
+        print(f"Unknown file format: {filename}")  # Other formats ignored
 
-# مرحله 3: جابه‌جا کردن فایل‌های استخراج شده به مسیر نهایی
+# Step 3: Organize extracted files to final folders
 for root, dirs, files in os.walk(extract_dir):
     for name in files:
         file_path = os.path.join(root, name)
+
+        # Move PDFs to books folder
         if file_path.endswith('.pdf'):
             target_folder = os.path.join(final_data_dir, 'books')
+        
+        # Move HTML or TXT to websites folder
         elif file_path.endswith('.html') or file_path.endswith('.txt'):
             target_folder = os.path.join(final_data_dir, 'websites')
+        
         else:
-            continue  # فایل‌های غیرمرتبط
+            continue  # Skip other file types
 
-        os.makedirs(target_folder, exist_ok=True)
-        shutil.move(file_path, os.path.join(target_folder, name))
+        os.makedirs(target_folder, exist_ok=True)  # Ensure target folder exists
+        shutil.move(file_path, os.path.join(target_folder, name))  # Move file
 
-print("Done!")
+print("Done!")  # All operations completed
