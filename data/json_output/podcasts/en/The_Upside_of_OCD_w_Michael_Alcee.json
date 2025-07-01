@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "title": "The_Upside_of_OCD_w_Michael_Alcee",
+    "language": "en",
+    "type": "podcast",
+    "source_path": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+  },
+  "chunks": [
+    {
+      "chunk_id": "podcast_en_0001",
+      "content": "Ever wonder what it would be like to be mentored by today's top business leaders? My podcast, this is Working Can Help With That. Here's some advice from Jamie Dimon, the CEO of JP Morgan Chase, on standing out from the leadership crowd. Develop your EQ, a lot of people have plenty of brains, but EQ is do you trust me? Do I communicate well? Develop the team, develop the people, create a system of trust, and it works over time. I'm Dan Roth, LinkedIn's editor-in-chief. This is Working, leader share strategies for success. Listen on the I Heart Radio app, Apple Podcast, or wherever you get your podcasts. We asked parents who adopted teens to share their journey. We just kind of knew from the beginning that we were a family. They showcased a sense of love that I never had before. I mean, he's not only my parent,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0002",
+      "content": "like he's like my best friend. At the end of the day, it's all been worth it. I wouldn't change things about our lives. Learn about adopting a teen from foster care. Visit adoptuskids.org to learn more. Brought to you by adoptuskids, the US Department of Health and Human Services, and the Ad Council. I am Bob Pittman, Chairman and CEO of I Heart Media. I'm excited to share my podcast with you, Math and Magic, stories from the Frontiers and Marketing. This week I'm talking to the CEO of Moderna, Stefan Bonsel, about how he led his team through unprecedented times to create, test, and distribute the product. And distribute a COVID vaccine all in less than a year. It becomes a human decision to decide to throw by the window your business strategy and to do what you think is the right thing for the world. Join me",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0003",
+      "content": "as we uncover innovations in data and analytics, the math, and the ever important creative spark, the magic. Listen to math and magic, stories from the Frontiers and Marketing on the I Heart Radio App, Apple Podcasts, or wherever you get your podcasts. And so I was thinking about with Tony Morrison said, if there's a book that you want to read and it hasn't been written, you must write it. So there's so many different layers of this. I wanted to bring this what I do in the clinical work, what I've done in my own life, and also sort of homage to my mom to say, look, there's so much more within this. And that's what I mean. OCD certainly can be a very challenging, torturous, disabling condition. But at the same time, I don't want people to lose the gold. There's a lot of dirt, but it's",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0004",
+      "content": "paid hurt. There's a lot of gold in OCD. It's a great pleasure to have clinical psychologists Michael Alcy on the show. In this episode, we have a refreshing humanistic discussion about obsessive compulsive disorder. Michael is critical of the standard medical model of OCD and points out the upsides of OCD. He argues that people with OCD have a unique temperament, which includes heightened existential sensitivity and a richer imagination. While people with OCD certainly have their struggles and tend to be obsessed about causing harm or receiving harm, Michael also points us to all the ways that OCD have historically been channeled into some of the greatest works of art and literature and how everyone with OCD can have a healthier relationship with their OCD. So without further ado, I bring you Michael Alcy. Michael Alcy, how are you? So good to see you. Yeah, I've been really",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0005",
+      "content": "looking forward to this conversation. Yeah, two Jews with OCD sitting with a candle between us. It's the perfect environment. It's the perfect ambiance for two humanists to really have a conversation. Yeah, let's change that identity. Two humanists. Yeah, well, what does it mean to be a humanist? Yeah, I think it's funny thing. The humanist thing is so interesting because creativity is the centrality I think of being human and being able to be with the contradiction and complexity and nuance, the messiness of it. Yeah. But also the transcendence of it. They kind of go together, which I think is the brilliant part. Leonard Cohen said, if you don't become the ocean, you'll be seasick every day. I'm almost every Leonard Cohen, including that one. So you are a clinical psychologist and you specialize in existential humanistic approaches. Is that right? It's integrative. It's the existential humanistic",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0006",
+      "content": "and psychodynamic and... Wow, you sneak in a little psychodynamic. It's still in. It's still in. Wow. Because it's all relational. Yes. And anything that's human requires relationship. Right? So, you know, the challenge is being a fully embodied self and actualized self in relationship to others. Do you bring a new union? Oh, completely. Depth. Analysis? Yeah. Because you're... Completely. Because Jung was so much more open to the beauty of creativity and nuance, which I think the humanists took back. Yeah. Yeah. And I think they reclaimed it, which was really important. The humanistic psychologist. Yeah. The humanistic psychologist, the existential psychologist. You know, it's interesting. I actually make a distinction between the humanistic psychologists and the humanism movement. Yeah. Because I feel like they're different. Humanists tend to be like the Stephen Pinker, hyperrational. You know, it's all about logic. Yeah. Whereas I actually think the humanistic",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0007",
+      "content": "psychologists were more about being a whole human. And it's... They're just separate things. They neither is better than the other. But, yeah. I just feel like the humanism movement is different than the humanistic psychology movement. Do you agree? I agree. I think actually, but if you look at the threat of humanism throughout history, like you see, like the Shakespearean kind of thing. Right? The Shakespearean is the Uber humanist. And, you know, the Renaissance Da Vinci. And all of this stuff I think that brings it in. And I think you're right. I think one of the things that's really exciting about where psychology is right now is a field, is that we're embracing more of the feeling poetic side, as well as the logical linear side. Yeah. And to be a humanistic to embrace that... So I like to think of us as sophisticated emotion regulation",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0008",
+      "content": "machines and ideogen- Well, I'm sophisticated. Completely. I was sophisticated since then. Right. And even, you know, the funny thing is we pretend not to be sophisticated. No, I mean, we pretend to be sophisticated. Oh, all the time. Oh, it's... But we have both. And it reminds me of like Da Vinci's Vitruvian man, you know, Uber, like with a square in the circle. Oh, yeah. So the square is the logic and the circle is the notion. Yeah. It's the poetic and the linear. And from my money, like the humanistic is about embracing the contradictions and complexities of that. Well, on that backdrop, let's talk about OCD. Yeah. And the topic of your book is called the Upside of OCD. Flip the script to reclaim your life. Now, a lot of people who've been diagnosed with OCD, I do think feel like they are out of control",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0009",
+      "content": "in their lives. So that was a really deliberate phrasing in your title, obviously. And it's a very unique book you wrote. And I just want to say upfront, I thought it was a really great book. Obviously, I... And what you did in my podcast. And it's a book that I think virtually everyone who has been diagnosed with OCD, or that's part of their identity, could really benefit from to expand their identity. I would phrase it that way. Yeah. Not replace, you know, but give them more expansive view of who they are and what they're capable of. So really congratulations on this amazing book. I want to ask you, what is the clinical diagnostic criteria for OCD? Let's start with the basics. Yeah. And then I want to ask you, why are you not so happy with how it's currently framed? Yeah. So I mean, obviously",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0010",
+      "content": "it's obsessions and compulsions. So the obsessions are these tendency to be have intrusive thoughts, right? They're often centered about, did I potentially harm somebody by mistake? Am I clean enough? Did I think something blasphemous or immoral? Did I count enough? Did I order things enough? All these things that kind of you ruminate on in a way that you sort of can't stop even though you'd like to. And the compulsion part of it is the side, well, I want to do something to feel more in control and to suit the anxiety around this nagging obsession. So I'm going to wash my hands. I'm going to cancel the thoughts with a mantra or a prayer. I'm going to try to do something that purges me of this nagging feeling. And so obsessions and compulsions go hand in hand. Really well put, you know, as a humanistic, we're",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0011",
+      "content": "both humanistic psychologists, personal. Yes. I felt that way. I felt that way. It was like, I don't know God right, we're flying close to the flame there. But we're both humanistic psychologists and what big part of the humanistic psychology movement was not wanting to neglect the experiential aspect of what it means to be human because they were really counter sort of the Freudian as well as the reductionism of skin or BF skin. So let's really discuss what it's like to have OCD and really get into that. Yeah, and I think you brought up a good point that everywhere in psychology and the history of psychotherapy, we find something and then we feel like we're missing something. And I think that's where it's really important to be as Howard Gardner says, a synthesizing mind. Somebody who kind of draws from things. So I was reading Matthew",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0012",
+      "content": "Said, he is a British writer who's written a great book called Rebel Ideas. And he says, there's something about incremental innovation and then there's recombinant innovation, which is when you pull from different areas. So the thing that I'm not so pleased with with where OCD is currently is that it's looked at like in this kind of linear literal way. Right, you have these obsessions, you have these compulsions, right, that that's it. Yeah. But I actually see it from a completely different framework, which is sort of similar to how Susan Cain looks at introverts. People with OCD have a unique temperament and sensibility of sensitivity, an empathic sensitivity. There's research out of Germany that shows that people with OCD are more empathically tuned in. Wow. Then not only healthy controls, but people with other garden varieties, I guess. Is there a correlation between OCD diagnosis and",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0013",
+      "content": "scoring high on the highly sensitive person scale? I would like the iron cent, iron bet money on that completely. And I think they're very, I think they're sort of overlapping. Fascinating. Yeah. And so the other part of the temperament like we were joking about before we got on here is that there's an existential sensitivity. So if you're empathic and you notice how people feel and what their experience is, if you're intuitively tuned into them, you also notice when they get hurt. You also notice when there's ruptures, this is what makes us good therapists. That's why actually there's a lot of therapists I think who do have OCD tendencies because it actually makes us really good at noticing. We have a sixth sense of empathy and intuition. The second piece, the people with OCD that is lost in the medical model version, is that people with",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0014",
+      "content": "OCD have a very imaginative mind, a very fertile imagination. They go into what if spiral, thoughts spirals and rabbit holes, but if you actually look at the mind, it's not too different from the obsessional aspect of creativity. And it's no surprise that Charles Darwin struck with OCD because if you think of the brilliance with which he looked at different angles of things and went down all sorts of different places, there's a connection. I didn't know Charles Darwin had OCD. He worried that his children would die. He was concerned about reassurance. There's a story of him in the middle of the night going to his friend's house to make sure he didn't offend him. He struggled a lot of these things that we would consider classic OCD symptoms. That's so fascinating. What's actually neurologically going on in people who have OCD? What's going on? What's going",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0015",
+      "content": "on? I was sure it was as up to date. I remember when I was in college, I did an extra credit paper and I was looking at all the data neurologically. They look at the Codate nucleus and they look at areas and try to see what kind of activity is going on in there. And I think still that jury is out on exactly. But I do think one of the things that's really fascinating about OCD is that it's very much nature and nurture. There's certainly a biological component to the fact of having a tendency to spiral, to ruminate, but also to be empathically tuned in. That's where I think that what gets missing and current ideas about OCD is not looking at... I call people with OCD they have extraordinarily generous heart. You know how the Grinch had a heart tenth size is too small?",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0016",
+      "content": "People with OCD have a heart tenth size is too big. They almost don't keep track of themselves. They're much like Freud said at one point. The person with OCD is probably most of the most scrupulous member of society, though they treat themselves as if they are a mass murderer. That's so interesting. So the lack of self-compassion and self-abvocacy for a person with OCD is extraordinarily interesting. So my take on it is, how do we harness the beauty of that big heart but also turn it towards the self? There's a great poem by Derek Walcott, Love After Love, one of Obama's favorite poems. He says, the time will come with a lation when you will greet yourself in your own mirror. Sit, feast on your own life. Give back the love you've given to another. And I think people with OCD need to give back that",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0017",
+      "content": "love. My mission, if it should be so, is to change the dialogue and conversation about what OCD is, what it could be, how we can understand it, how we could treat it. And I was thinking, remember the old Solomon-Ash experiment? Yeah. So Solomon-Ash for those who don't remember, he was at Swarthmore College and he did this famous social psychology experiment where he's trying to figure out it was supposedly a vision test, which is the correct line that corresponds to this one. And of course, he had all these confederates. I'd be like, oh hell no. Yeah, I'd be like, what? Oh, it's. But of course, in maybe like, I think two thirds to 75% of the people conformed to the dominant view which they knew was wrong. And those people ended up being less creative, as adults. Completely. But he did another condition, as you recall,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0018",
+      "content": "where he had one dissenter. Oh. That one dissenter took the conformity down 80%. I'm that guy. Yes. So that's what I wanted to do for OCD is to dissent, to say, wait, there's more. I know the consensus right now is that this is what OCD is or could be, but there's more. And I think that's actually really hopeful. Yes. And it's very clear that you're trying to restore the humanity to OCD. And, I'm not going to say but, but end, because your book is all about both end. And, as your whole book is about both end, I will say that for those who are in the grips of OCD, all this is very cold comfort. Yes. So, like, for me, it's, it takes the form of one of the biggest forms it takes is like checking. Yes. So if I'm in the airport, I have",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0019",
+      "content": "to keep, and I'm, whenever I'm in a nervous state, like about to board an airplane or I have to keep making sure, Oh, did I even think of the word check instead? Yeah, even though, yes, yeah, and I get to the point where I just, I actually like take a picture of like my apartment before I leave. So that when I worry later, did I turn the picture of the parking spot to make sure that it was legal, even though it's probably. So this is normal, so normal, not normal. Welcome to the club. So when my point is like, you know, experientially when I'm in the grips of that, you know, you could come up to me like, hey, Scott, but you have great existential sense to be able to go fuck off. Exactly. I'm trying to get over this moment I'm having right now.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0020",
+      "content": "Totally. So what is your advice, you know, when you have clients who come sit down and are really suffering so much, how can they hold both of these things? Because don't get me wrong, I'm not saying go fuck off in general, because I think your message is amazing. I'll be very clear. No, that was in New Jersey. Hello, I get that. You know, it's all good, but you know what I'm saying? Not in general, like your message is wonderful and it needs to be said. No, but you bring up a really good point, which I think is really important. And the title is a little deceiving, which is it's actually as much about the downsides as it is about the upsides. Yeah. So this book isn't meant to glorify or glamorize these other wonderful facets behind OCD. I actually think these facets exist before OCD",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0021",
+      "content": "hits the scene. I think OCD comes about by a lack of mentorship with how to work with this. Right, so if you were like, I'm going to steal from Elizabeth Gilbert, the writer, she talks about being a creative person as like being a border collie. And if a border collie doesn't have enough good activity, they'll tear the place apart. No, personally, OCD is a border collie in terms of how active their heart is and how active their mind is. If they don't understand that they had to train that, they're going to tear themselves apart. Right? But what you said too about what, hey, this isn't, this is cold comfort when I'm in the middle of a spiral. Yeah, so I'll share with you a funny example of when I got into a spiral. So during COVID, about six to eight weeks in, I started to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0022",
+      "content": "get haunted by an obsession. So maybe I had a cavity and maybe I was going to need a feeling or a crown or a ruckian owl. And then all of a sudden, I started to obsess. Yeah, what if I go to the dentist and I get COVID and I give it to my family, they all die? Or what if I stay home and don't get this taken care of? And then I'm in slow agony. Right? And then what if, because I have this cavity and it's not treated, I get something. And then ironically, I don't even die from COVID, I die from something else. Right? So having OCD is like, that's the spiral, right? And it's a lot like a law and order episode. You know how I'm like, you go to the up to, you know, and you go to the up to, you",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0023",
+      "content": "go to the up to, and then like a law and order episode, you know how like you always think the guy, that first guy in the first 15 minutes, that's the guy. So I thought, no, that guy, it's never that guy. So I thought it was a two-year-old girl. It's completely different. And it's also the person who doesn't look like the jerk. So as I'm going down with this, I say to myself, Mike, you're spiraling. Yeah. And you know you're spiraling, but I was like, wait a minute. So you know how they do expose your exercises? The typical thing would be, I just embrace the uncertainty that the shitty thing is happening and you're not going to give it too much credence, right? Yeah. But I said, wait a minute, let me like check in with my Felix. Mike, what else are you feeling? Yeah.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0024",
+      "content": "Maybe that you're not focusing on. Because OCD is really interesting. It tries to distract us while it's also trying to focus us. So then I said, wait, Mike, it's two months into the COVID. Great point. This is creeping me out. This is scaring me. This is terrifying me. And watching my son pretend to be at the places that he would be out in the world down in the basement was making me sad. So it's feeling sad. It was feeling scared. I was feeling like, I should be tough, but I'm not feeling tough. And as soon as I let that motion come out, the two star sidebar and the fathering me, the obsession started to vanish. Really? Yeah. Because again, I found the real perp. The real perp was understanding, wait, again, it's an existential concern. Notice, I was worried about death, I was worried about",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0025",
+      "content": "loss, I was worried about all these things. And of course, what is it? The side show? It's a toothache. But it really, it was a toothache signaling something, but also concealing. It's everything that Freud said about a compromised formation. It both expresses and conceals. It's very, very sophisticated. And the reason I say that is because most ERP exposure response prevention, right, which is the main gold standard for treating a CD, which is to basically not seek reassurance to allow whatever, like so, allow the thought that you have a toothache and you might, and you might not get it fixed or, you know, whatever. And try not to look for reassurance and all that stuff. But instead, I also think there's a way of actually being exposure to the feelings. It's going to be a little more human. And the context. What was the context? So",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0026",
+      "content": "people with who in the ERP world, you know what they say? The content doesn't matter. Because it's just going to morph to anything else. But I think actually, I'll grant you maybe the content doesn't matter. The context does. And that's where I think it actually brings it back to humanism. Yeah. So there's an interesting meme in the OCD recovery world, which some people find very comforting. I find it actually surprisingly strange, but I'll explain why. They say OCD is like sound and fury signifying nothing. You know, that quote from Macbeth. Yeah. Yeah. Which is to say, all this stuff is not really real. Don't let it get to you. It's just bullshit. Yeah. Now that's comfort in some ways, right? Yeah. But what if there's some healthy meaning in this? So the meaning that was trying to be a messenger to me was trying to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0027",
+      "content": "say, Mike, you're scared and you have a hard time being with that. Right? Wow. COVID is, you're feeling this existential concern and you're sensitive to that. So you're going to feel it. Right? How does that apply to checking what's the upside of being in an airport store and not wanting to leave the store and board the airplane? Because you think, did I leave something in the store? Yeah. Well, think about this. So again, free therapy for Scott right here, right? It's also because if you think about it, it's a place where I don't feel in control. That's right. The root is I don't feel in control. And you know what? The other thing is people with OCD actually, just people in general, where we're changing. Change is happening all the time. And when you're sensitive to how easy change can happen. So I think actually",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0028",
+      "content": "people with OCD are using rituals to hold on to some stability. When they recognize that everything is changing, but nailed it. And that's why when you say, you're right, this is weird. I don't know. There's a little bit of shifting here. I don't like that. Yeah. What can I hold on to? That's right. Right? Again, that's the existential thing. What can I hold on to? It's like facing death. I can't hold on. Life is here, but I know that it's going to be taken away. Totally. Yeah. So what do I do? So yeah, there you go. Then you remind yourself, like, and then you come to your feelings. Because remember, OCD likes to take us into our worried mind. And we get disembodied. Oh, wait, am I feeling like, I'm afraid I'm going to forget. I'm afraid I'm going to forget something. And I'm in",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0029",
+      "content": "the middle of this transit. And I feel like, great, what am I feeling? Am I feeling stressed from how much I've had to wait for this plane to get up? All this stuff. So it's so good. Because when I'm in a relaxed state, I would care less about what I left it at airports. Completely. And that's from St. Gore state. Because I've had to spend many years overcoming my fear of flying. And I've overcome it. But the still residual sort of nerves right before I board. Well, that's the context. Yeah. See, that's where I think meaning is important. Get it. I get it. Context. You'll grant them that content doesn't matter. But you're not going to grant them that context doesn't. The funny thing is content doesn't doesn't matter. It really wasn't my two think that was the issue. Yeah. But it really was pointing",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0030",
+      "content": "to something that was an issue. Yeah. Sometimes the cigar is not a cigar. Yeah, exactly. We're redoing that. We're redoing that. You know, it's funny to you. It's interesting because I think one of the reasons why there is such an interest and movement towards the behavioral is because I think there was sort of, you know, in the early days of OCD treatment. It could be analytic and very cerebral. And sometimes it wasn't focusing enough on that really concrete stuff and how this was affecting. And I also think there was a sort of trauma response in the field to how that hurt people and made them feel like they weren't getting what they want. But it appears to quote Drew Weston. That's where at a, that was a different vintage of psychoanalysis. That's like 1912. Yeah. 2024 is a much more relational, interpersonal, also, intracellic, but",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0031",
+      "content": "in a really kind of nuanced way. And I really would love CBT people to see that actually talking about affect, talking about meaning is exposure too. I really think it's important for us to be multilingual, let's stare at this. What do you think of the apt approach? I think the apt approach is lovely. You know, I think, I think, you know, again, like I said with that Leonard Cohen quote, if you can't become the ocean, you'll be seasick, right? It's wonderful to embrace stuff. So the only thing that I think is missing, I think act is like Buddhism, right? It's great for you to be zen about accepting things and not being too attached. But I think what we need with that is also the meaning says, but what am I making of this? Because remember, we're meaning creatures. We need to make stories. We",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0032",
+      "content": "need to have coherence. And that's the other thing is I don't think of OCD as just this alien thing that is like a sickness that descends upon you. I also think of it as trying to tell you stuff about what you're experiencing yourself in your world, which is about making meaning, right? I made meaning when I was like, wait. This isn't about the two thing. This is about these deep feelings, these deep thoughts that I'm having. So I really don't see it contradictory to how it be both meaningless and meaningful. Yeah. Um, fair enough. This is Quartzide with Laura Currente, the podcast that's changing the game and breaking down the business of women's sports like never before. I'm Laura, the founder and CEO of Deep Blue Sports and Entertainment. For Inside Source on the biggest deals, power moves and game changers, writing the playbook on",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0033",
+      "content": "all things women sports. From the heavy hitters in the front office to the powerhouse women on the pitch, we're talking to commissioners, team owners, influential athletes and the investors betting big on women sports. We'll break down the numbers, get under the hood and go deep on what's next. Women sports are the moment. So if you're not paying attention, you're already behind. Join me, Quartzide for a front row seat into the making of the business of women sports. Quartzide with Laura Currente is an I Heart Women sports production in partnership with Deep Blue Sports and Entertainment. Listen to Quartzide with Laura Currente starting April 3rd on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. Brought to you by Novartis, founding partner of I Heart Women's Sports Network. Hey, I'm Dr. Maya Shankar. I host a podcast called A Slight Change of",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0034",
+      "content": "Plans. I started this show because unexpected change comes for all of us. And there's no set playbook for how to deal with it. I have all of this psychological baggage that I'm carrying with me and the last thing I want to do is to pass that on to my daughter. So I have to figure this out. This puzzle of my trauma, I have to figure it out and I have to figure it out now. Join me this season when I talk to Amanda Knox about her choice to reconnect with the prosecutor who helped put her behind bars. This is not about him. This is about me and what I am capable of giving. And I know that I am capable of being kind to this man. And by God, I am going to do it and no one can stop me. Listen to a Slight",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0035",
+      "content": "Change of Plans on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. I'm Camila Ramón, Peloton's first Spanish-speaking cycling and tread instructor. I'm an athlete, entrepreneur and almost most importantly, a perreo enthusiast. And I'm Liz Ortiz, former pro soccer player and Olympian in like Kwame, a perreo enthusiast. Come on, who is this? Our podcast, Hasta abajo, is where sports, music and fitness collide. And we cover it all. The Arriva, Hasta abajo. Sit down with real game changers in the sports world. Miami Dolphins, CMO, Priscilla Shumate, who is redefining what it means to be a Latina leader. It all changed when I had this guy come to me. He said to me, you know, you're not Latina. I'm a football. What does that mean? I'm not this wide open. Yeah. History makers like the Sookart family who became the first Peruvians to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0036",
+      "content": "win a Grammy. It was a very special moment for us. It's been 15 years for me in this career. Finally, things are starting to shift into a different level. Listen to Hasta abajo on the I Heart Radio app, Apple Podcast or wherever you get your podcasts. Presented by Capital One, founding partner of I Heart Women's Sports. You talked a little bit about the traditional approach, ERP. And you have a response, a quote, I have here, responding to that later in your book, but I highlighted it and I love it. I just want to double click on this quote of yours. It's a quote. Does the treatment out there really appreciate, understand and explain the overly generous and empathic heart of those with OCD? Does it see the creative possibility and power within the expansive mind and creative prowess of the OCD suffer? Does it pay",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0037",
+      "content": "heed to the inner story and potential trauma that can originate or exacerbate OCD? That is a beautiful poetic quote. It's like you're a poet yourself. You know, like that was really poetic. I didn't even realize I wrote that. So that's really, yeah. Yeah. Well, that encapsulates a lot of the upsides of OCD right there. Well, a lot of writers must have had OCD. John Green is a really phenomenal example. He wrote a novel called Turtles All the Way Down, which is a protagonist, is a young girl with OCD. But any of his other books, the thing that I always think is interesting about John Green is he talks about I'm good now because my OCD is treated with medication or with CBT. And I'm like, John, John, buddy, buddy, wait. The nuance and sophistication and sensitivity of your work is because of all this. So",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0038",
+      "content": "you tell him that? I haven't. John, if you're watching, John, I think you're writing as brilliant. And also the other thing about Green's writing is I just broke the third wall. I broke the third wall. Oh my God. Sorry. So the thing is, if you look at John Green's books so much about his existential issues, fault in our stars is about two characters who have cancer. We're dealing with looking death in the eye. So if you look at, there's so many creative people and scientific people, like I said, Charles Darwin, Nicola Tesla had this funny counting obsession. So you need it to do things in threes. And if you didn't go around the blocks three times, you'd have to continue it. You need it to live in an apartment that was a multiple of three. Right. We have, you know, the musician and producer Jack",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0039",
+      "content": "Antinoff talks openly about his OCD, but also he doesn't see it as just a dental mental thing. Camila Cabello talks about she was on an armchair expert with Jack Shepherd. And she said, listen, I don't even call it OCD with my therapist. We called my obsessionality. Right. And she had all sorts of classic. She thought when she was young, that because she didn't have a period for the year, that she was the Virgin Mary. And, you know, like she had all of the things that you'd expect in classic OCD, but she also, I think, sees this hidden upside that we're talking about. And that's what I think is really extraordinary. And that imaginative mind that nuanced, intuitive, emotional, six cents, like just like what Susan came to for introverts and saying, wait, we just don't know how to approach people with this and to support",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0040",
+      "content": "them best. And there's so much strengths and we can also work on the difficulties, right, at the same time. I mean, it's fascinating. This is news to me that OCD is correlated with the Virgin thinking ability. And I actually haven't seen studies on that. I've seen studies winking ADD with creative thinking, but OCD, I feel there's some studies about OCD and creativity. Please send them to me. Yeah, because I think that that's a missing part of the creativity literature. And I'm going to do a plug for you moment. Like, when I was reading about your background, I was talking to you before about the dual theory of intelligence that you're doing. You're like the only one who knows about it. Yeah, it's what's so cool about it is because the dual theory, the part that you're focusing on is exactly the part that I think",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0041",
+      "content": "is missing in OCD treatment, which is the metaphorical, the intuitive, right? So, so right now treatment is like literal. Which is one eye. We need the metaphorical to get real depth perception. Well, I really appreciate you appreciating that. My goal was called the dual process theory of human intelligence. A big part of my dissertation was arguing that the field has really ignored the cognitive processes that contribute to artistic creativity. Yeah. So, that was a big impetus of my dissertation because they had focused so much on IQ. Yeah. And a conscious, logical reasoning that correlates with creative achievement. Yeah. And I was like, oh hell no, yeah. I got to get in on that. You all were missing, missing at least 50% of human cognition or the benefits of it. It's huge. Thank you so much for it. It's huge. And I mean, I think Antonio",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0042",
+      "content": "D'Amazio has done a brilliant job of really showcasing that. I think, you know, in terms of looking at the contributions of this stuff, it's super important. Actually, you know what I think is a cultural piece that's really interesting. Yeah. So, I think actually part of our movement towards this is the way things have shifted in their landscape. Right. And if you think about technology, it's allowed a lot more introverts to get into the mix. You've gotten a lot more imaginative stuff going on. There's more. If you think about it in the old computer days or in the old industrial, post-industrial revolution. Left brain linear thinking was prioritized. And I think now you're seeing just like Daniel Pink says, right? The right brain stuff is really important now because we've also moved computers to do all that left brain stuff better than us. So I think",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0043",
+      "content": "actually one of the reasons why this is super important is because I think the field is still staying with the cultural thing of the left brain because they're all nerds. I mean, the people who are in the research themselves aren't artists. Yeah. And I think you need both. And so, you know how they talk about a no-CD treatment embracing uncertainty. Yeah. Right. Which is a lovely, it's a wonderful concept. So John Keats, the poet, romantic poet, had this lovely concept called negative capability. Oh. Negative capability is basically allowing yourself not to let reason just take you where you go. But to allow the openness to ambiguity and mystery. Right. Well, that's so, Susan Kain. That's Susan Kain, right? I love that. I see what. In her book, The Door Sweet. Totally. No, I mean, it's so me too. I love it. I love it. I",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0044",
+      "content": "absolutely love it. You say my paradoxical take on a CD is captured beautifully by Carl Jung. Quote, it seems that all true things must change. And only that, which changes, remains true. Yeah. Yeah, that blew my mind. You said this is the embodiment and essence of OCD's upside. Can you do that? Yeah. That one, all you. Yeah. And I stole that from Brad Stolberg, who wrote a beautiful book called Master of Change. A friend of mine, yeah. Yeah, he's wonderful. And the reason I said is because actually what you even write about, it's a kind of connection here. When you change is the central thing. So I don't know if I stole this from somewhere. So just, if I stole this from you, I apologize. But my definition of creativity or my stolen one is, it's the art of creativity is the art of changing",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0045",
+      "content": "while staying the same. That's what psychological creativity is, right? And Tony Robbins once said in a talk that I heard, a few minutes I love two things. They love stability and they love change. Yes. So, but to be a creative person, not just in the arts or in the sciences, but psychologically. Yes. And that's what we do as therapists. We allow people to experiment with changing while still saying, well, you're still the same, right? Yeah. So the paradox of being able to work with that in fluid and interesting ways is the thing. And for people with OCD, they're super aware of change. And that's why they need to keep things controlled. Because they're aware of the essence of how you can never step in the same river twice. Right? But the beautiful thing, and that's what I meant about the Leonard Cohen quote, but if",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0046",
+      "content": "you can be like that ocean. Yeah. Right? That's your golden. You know, you're starting to sound like Bruce Lee for a second. Right? Yeah, be the one. Yeah, yeah, yeah. But there's a lot of concomitant. You know, OCD is an interesting one out of all of them. Yeah. If you view it as a constellation of stars, OCD seems to pair nicely. Yeah. It's like the one that pairs nicely with everything else. Yeah. All the other disorders. Yeah. You tend to see autism has a lot of comorbidity. Yeah. And the schizophrenia has the comorbidities. It's like OCD tags on to everything. Right. I don't know what to make of that, but it's something I noticed in the psychiatric literature. It's like OCD is really a really high comorbid one with lots of other things, you know, because maybe part of it, and I'd love to hear",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0047",
+      "content": "what your thought is, you know, the thread there is, well, high anxiety runs through everything. Yeah. That's a high neuroticism. And the need for control, right? Which is, in a lot of things. The personality trait neuroticism has been found to be the thread personality trait. It runs through every several mental disorder. Yeah. You know, the person who has like a zero neuroticism score tends to be emotionally, they're boring. I was going to say I'm boring. I'm doing sorry. Do you want to be friends with that person? I don't know. They're saying congratulations, I'm sorry. Zero or 100% emotional stability. You know, they're always practical. They make the right choices. Yeah. They never worry. They have no conscience. They have no guilt. Anyway. Yeah. It's just interesting that, you know, you can, OCD shows up in lots of different packages, a lot of different, in the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0048",
+      "content": "whole neurodiversity world. Yeah. You can have different profiles. If you've met one person with OCD, you've met one person with OCD, right? Just like you've met one person with autism, you've met one person with autism, because, you know, you can have, you know, all sorts of ways that it combines and mixes together. And, yeah, anyway. Yeah. And I think another thing that people forget about OCD is that it actually kind of showcases the quintessential dilemma of being human. Oh, great. Polic, so think about it. Like the real quote for OCD is not life is, you know, full of sound and fury signifying nothing. It's to be or not to be. The question that a person with OCD is always asking is, what's it like to be and to realize that we're not going to be? So if I like to think of people with OCD",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0049",
+      "content": "as existentialists from the start who never read Kirkgard or Sartre and didn't have the lexicon and the support with understanding how to hold and carry that fire of those feelings, right? And I think that's why actually when we forget this, but when Freud was studying, he studied like the Ratman was his quintessential OCD cases, that's where he develops this conflict between this moral side of us, the superego and the id, which is the aggressive side, because people with OCD are really cagey around their wild side. Oh, what do you mean? Tony? Well, you know, being afraid of the gang out of control. Yeah. And so what are the upsets about? I'm really out of control, right? All right. I'm going to kill somebody. I'm going to do something obscene. I'm going to do something horrific. I am something horrific. That's so interesting. Right? And Freud",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0050",
+      "content": "was on to that very early. And the point of that, I think, that's really crucial here is that it's not easy being human to reconcile these full-throated feelings, sometimes of which the other reason that people with OCD are so concerned is because they're worried about being harmful. They're so worried about harm. Because feelings, it's hard to take up space. It takes a little AI, the mentor who sets me. It takes a little aggression to have a self. Wow. You're blowing my mind. Right? I need a process that last one. Because I was already processing what you said before, then you're throwing one thing to process after another. You know, it is so profound what you're talking about. One of my favorite psychotherapists, Caragers, a humanistic, part of the original humanist psychologist group, he wrote in his book on becoming a person. He said, most of",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0051",
+      "content": "my patients, not all my patients are constantly terrified that they're going to release the beast. Yeah. He's a whole section of his book on releasing the beast. Yeah. I always think about that because there's something very human about that fear. So yes, people with OCD might, that might be that fear in steroids, but I think they're going to be that fear in the body. And he says in virtually all the cases, no one's released the beast when they have started the integration process. Absolutely. If anything, they become more socialized. They become more in control of themselves. And I'm going to guess, and Caragers and also say, you know, the mentality of the kind of person that they're fearing, you know, is the opposite actually of a psychopath. Completely. Because if you've ever hung out with a psychopath many times. You know, and they're fun to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0052",
+      "content": "party with. Yeah. They never ask themselves. They're never concerned. They're never asking themselves. They're not wrestling with the questions ever. They nailed it. Never. You know, when you hang out with psychopaths, never hear a psychopath say, oh my gosh, what if I released the beast? They're like, how can I like give me the context so I can release the beast? Yeah. And that's right. And there's two other things I was thinking about that, right? So you said something about the psychopath versus the person of the CD, right? So the other thing is you're right about this wild side, right? So people with OCD fear this wild side, fear it. But I like to think of where the wild things are. Remember that story about Little Max? Yeah. Like, he actually is just getting to use his power. He's excited about, ooh, I'm powerful. I'm a",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0053",
+      "content": "wolf. And I'm chasing after the dog with a fork. Yeah. Because he doesn't really want to eat up the dog in terms of like literally doing what's to eat up the world. But he doesn't know how to carry that along with being moral, right? Right. But that's why he needs to befriend the wild things to say, no, no, that's good. You can integrate the wild things, but then his mom leads the, they know, the bowl of soup to say, I still love you, even though you have this propensity to use power, right? That's how the aggression. And it's important. And again, you're right. The worry is that it will be, oh my gosh, I'm going to be the psychopath, right? If I have that. No, it's hard to carry that. But I call it like carrying a fire. It's hard to carry that fire. The",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0054",
+      "content": "whole release of the beast thing is interesting because another one of my favorite humanistic psychologists role in me. I mean, I know we can talk the same language here. He has it in one of his books, I forget which book he talks about how he had this patient who was so terrified every time he walked past a window, he was scared he was going to jump out the window. He had these intrusive thoughts. Yeah. He was walking with the patient one day and they passed a open window and and Raleem may goes, jump, just jump. Like, what's stopping you? Yeah. And in that moment, he said that the guy's fear dissipated. Completely. You need freedom. Isn't that fascinating? It's fascinating. And that's an exposure exercise right there, right? It's funny. Nobody would say Raleem is in, you know, behavior is straight. And you know, another",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0055",
+      "content": "Rogers that I love to think of is Mr. Rogers because, you know, one of the things that's brilliant about Rogers is he was, he was an artist. He was a subversive rebel. He took on consumer culture and said, okay, media. Yeah. I'm going to use you for humanistic purposes. And the thing with Rogers is that you think about, thing a thing as Nick's talked about. He talked about divorce. He talked about assassinations. He talked about race relations. Oh, yeah. He talked about his daughter made him be more interested in feminism towards the end of his life. And he was more interested in those difficult things. But because he approached it in that way, right? And again, I think there's a way of being with the wild stuff while also being very thoughtful. Yeah. And I think that's the thing. And that's what I want to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0056",
+      "content": "bring back to the looking at the OCD treatment is that we get to both these things. Yeah, totally. Yeah. Yeah. This is Courtside with Laura Currente, the podcast that's changing the game and breaking down the business of women's sports like never before. I'm Laura, the founder and CEO of Deep Blue Sports and Entertainment. You're inside source on the biggest deals, power moves and game changers, writing the playbook on all things women sports. From the heavy hitters in the front office to the powerhouse women on the pitch, we're talking to commissioners, team owners, influential athletes and the investors betting big on women sports. We'll break down the numbers, get under the hood and go deep on what's next. Women sports are the moment. So if you're not paying attention, you're already behind. Join me Courtside for a front row seat into the making of the business",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0057",
+      "content": "of women sports. Courtside with Laura Currente is an I Heart Women's Sports production in partnership with Deep Blue Sports and Entertainment. Listen to Courtside with Laura Currente starting April 3 on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. Brought to you by Novartis, founding partner of I Heart Women's Sports Network. Hey, I'm Dr. Maya Shankar. I host a podcast called A Slight Change of Plans. I started this show because unexpected change comes for all of us. And there's no set playbook for how to deal with it. I have all of this psychological baggage that I'm carrying with me and the last thing I want to do is to pass that on to my daughter. So I have to figure this out. This puzzle of my trauma, I have to figure it out and I have to figure it out now.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0058",
+      "content": "Join me this season when I talk to Amanda Knox about her choice to reconnect with the prosecutor who helped put her behind bars. This is not about him. This is about me and what I am capable of giving. And I know that I am capable of being kind to this man. And by God, I am going to do it and no one can stop me. Listen to a Slight Change of Plans on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. I'm Camila Ramón, Peloton's first Spanish-speaking cycling and tread instructor. I'm an athlete, entrepreneur and almost most importantly, a perreo enthusiast. And I'm Liz Ortiz, former pro soccer player and Olympian in like comedy, a perreo enthusiast. Come on, who is it? Our podcast, Hasta abajo, is where sports, music and fitness collide. And we cover it all. De arriba, hasta",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0059",
+      "content": "abajo. Sit down with real game changers in the sports world. Miami Dolphins, CMO, Priscilla Shumate, who is redefining what it means to be a Latina leader. It all changed when I had this guy come to me. He said to me, you know, you're not Latina. I'm a fricking old. What does that mountain wide open? Yeah. History makers like the Sukkart family who became the first Peruvians to win a Grammy. It was a very special moment for us. It has been 15 years for me in this career. Finally, things are starting to shift into a different level. Listen to Hasta abajo on the I Heart Radio app, Apple Podcast or wherever you get your podcasts. Brought to you by Novartis, founding partner of I Heart Women's Sports Network. I like that you're also breaking stereotypes because you know, just to circle back to the psychopath thing,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0060",
+      "content": "there is a stereotype I think that psychopaths are OCD, right? Like when depicted in there's that famous movie, I forget what it is, but American Psycho is American Psycho. I think you maybe they all they always have to have everything in order. So there's also a difference between the personality disorder, obsessive compulsive personality disorder and OCD. So the person where the obsessive person personality disorder has a very different sensibility. I do not think they have the deep empathy that the person with OCD has. I didn't even know there was a difference between the two. You're saying there's a clinical version and not a clinical version. So there's a the personality obsessive compulsive personality disorder. So that's the person who's very type A who thinks, you know what, if you don't do this my way and line it up or do this, you're wrong. Right. And",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0061",
+      "content": "there's a self righteousness about it. You know, it's not uncommon for people with OCD to find people with OCD personality disorders because they compliment each other well. Right. Because those people with OCD personality disorder are very short themselves. Almost too short themselves. And you're right that that psychopath has some dimensions of that because there's a little bit of a narcissism. They want to control everything. Like this obsessive need to control. Yeah. But again, in an ego-sintonic way. Yes. Correct. Right. Not something that I feel bad. Like I'm not wrestling with that. So the difference is the wrestling. So that's actually the saving grace of the person with OCD that they wrestle. I didn't you just put my mind because I didn't know that there's a in the clinical literature that is a real important difference between OCD and an obstetricial disorder. Yeah. Well, OCD's obviously",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0062",
+      "content": "personality disorder. OCP. OCPD. I see. I see. No, so the reason is because nobody thinks about the personality style of the person with OCD. Yeah. It was actually a really interesting that you would be confusing. Because we just think about the clinical symptoms of OCD without looking at what's the character, what's the what's the upside that you're referring to. Are you saying that's more allon lines of the personality one? No. Only for this is only for the disorder for the disorder. So there's actually in. Okay. Funny in the series that my book is published in another author wrote about the personality disorder, which I have a rat. But so the personality disorder is where you see maybe more than narcissists. Yes. I see. I got it. And that's why the correlation. It's not surprising to have a psychopath who has OCPD tendencies. I totally get",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0063",
+      "content": "it now. Right. There could be overlap. Right. I totally get it now. I thought you were doing the reverse. So no, that makes that makes sense. Because yeah, I mean, you see that almost by definition extreme narcissism is OCD to a certain extent because everything you become obsessive need to control and have power over others. But you know what's got you actually brought up a really good point. That is a two good points. One that I think that we don't think about the personality of somebody with obsessive compulsive disorder. Because we think, oh, wait, it's just these things as if it's just symptoms on to glombed onto a person. But what if there's more about the personality and the style, just like when you look at like a psychoanalysis, like what is the character organization? Right? Is it a borderline organization? Is it a skit-soyed",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0064",
+      "content": "organization? So I think there's actually more to mine there. Gotcha. Right. About the psychopath thing. So the difference with someone with OCD, one of my exercises for people with OCD is basically, it's had to be an asshole. Oh, yeah. But not really be an asshole. Yeah. Because people with OCD are worried about being an asshole. Yeah, I know what you mean. But if you're really worried about being an asshole, you're not really an asshole. You're certainly not a certifiable asshole. And the fact that you grapple with that, so good. Right. So that's the difference. That's OCD. That's ego-distonic, right? I don't really want to be this. And the funny thing is, you know how I said that people with OCD have a hard time being assertive and selfish? You know when they can be? When? Well, you have to wash your hands now. Because my",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0065",
+      "content": "OCD tells me. You see, and you have to do this because I'm stressing. It's not me that's doing it. It's my OCD. So I'm not blaming myself. No, it is. So I think actually OCD is a way of regulating boundaries. Because the person with OCD has a hard time just holding their boundaries and they get blurred with others. And so then they need the OCD to come in to help them. Right. So Robert Frost, you know what I love poetry said, first you be a person, then I'll be a person. And then we'll be as interpersonal as we please. The person with OCD is so tuned into others, they almost get distracted. They lose sense of themselves. And then the OCD in a way comes in to say, okay, that's how it's a messenger. Well, you've described my mom to a tea. I don't know",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0066",
+      "content": "whether Sam, sorry, congratulations on that. But that's what it is. But that's what it is. Yeah. Right. Yeah. Now your mother. Yes. There's a little Michigan or two, right? She did. And also what I was a child, like my mom, my worry that something was going to happen, like terrible to my mom, like a third grade hit me like, I don't know where. And this worry that something, if I didn't do my prayers correctly in religious school, that something would happen, my mom had the same pierce, so there's clearly a genetic link. But what I never understood, because there was no language for it at the time within OCD research or anything, there was sensitivity. My mom was extraordinarily sensitive for sure. She was a therapist as well. She was a literature buff because she was tuned into that stuff. But there was nothing out",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0067",
+      "content": "there. So when people say ask me, I forgot to tell you this, I didn't think I was going to write this book. I didn't think I was going to need to write this book. So I did my dissertation on something like this 15 and 20 years ago. And my mentor was a big OCD researcher named Dean McKay. And he was cool enough to take a gamble on me looking at cognitive behavioral and psychoanalysis and attachment theory and bringing it all together. And I thought, cool, this was a cool project. Someone's going to put this together. I don't have to worry about it. 20 years later, I'm like, why? And so I was thinking about with Tony Morrison said, if there's a book that you want to read and it hasn't been written, you must write it. So there's so many different layers of this. I",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0068",
+      "content": "wanted to bring this what I do in the clinical work, what I've done in my own life, and also sort of homage to my mom to say, look, there's so much more within this. And that's what I mean. OCD certainly can be a very challenging, torturous, disabling condition. But at the same time, I don't want people to lose the gold. There's a lot of dirt, but it's pager. There's a lot of gold in OCD. It's a real, a really expansive view of it that's been neglected in the psychological, well, it's definitely psychiatric literature. Yeah, it's like a typical literature. It's actually a garage litter. They don't like up sides of anything. You know, it's funny. I also, I've been pushing, I've been, so I wrote this book also to be really sensitive to what I think are the wonderful contributions of CBT and ERP and",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0069",
+      "content": "ACT and all that stuff. And my point is not to say we get rid of that. I say it's a blended altogether. But the other thing is that I want to say to clinicians out there and researchers out there, let's keep on looking at all these different angles of it. Because every, I was looking while I was researching the book. I was like, what do they say out there in the book about the origins of OCD? And I thought they were going to say, yeah, it's biological or it's environmental news. We really don't know how much is, but I'm like, you really don't know, but you're saying there's only a gold standard? We don't have a gold standard yet if we don't really know all the ins and outs. It's a great point. It's a great point. I like in your book, you talk about",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0070",
+      "content": "how OCD presents, soites of hand that are possible in cover if you know how to spot them. You call this performing upside magic. Tell me a little bit of upside magic. Yeah, I mean, exactly what I do, but that loan order episode of me, right? OCD, so I once had this client who came into me, this was like when I was a grad student, I was like 25. And she was extremely altruistic, kind, sweetest, pigh woman. And she said, Mike, I have this relentless obsession that I'm going to get brain damage. And at first, I was like, you know, trying to do the ERP with her and thinking, well, it's okay. We can tolerate the uncertainty that, you know, if something is wrong, it's going to be okay. But then I was like, tell me a little bit more about the context. And as she",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0071",
+      "content": "was telling me, she told me that at work, someone playfully hit her on her arm. But she wanted to say she didn't like it, which she didn't. And all of a sudden, her OCD came in. Yeah. Now, the distraction, the slight of hand, is that it's make her think that she has brain damage. When the real thing that it's really getting at is that she wants to say no, stop it. Having a voice, right? Yeah. And so being able to decode that. Yeah. And to look at the nuance of what's happening is super important. And that's what I think. OCD is very magical in that way. It performs the slight of hand to say, oh no, you think I did the trick, but you don't see where the slight. So I think our job is therapists is to help people see the slight of hand.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0072",
+      "content": "Wow. Which is actually really fun, isn't it? It's fun in that context. Yeah. It's also fun. I'm going to do some magic for you later. Oh, perfect. I love it. Yeah. It's fun in a real magic context as well. Both of us are fans of Irving Yon, who has been a guest on this podcast. Oh my gosh. Yeah. I hung out with him at his home. You know, I once saw him at the network or conference. And I thanked him for showing all of us therapists how to be artists. And he said, I'm not an artist. Oh, yes. I said, luckily, Sue Johnson said, I think the guy has point. And I sent him the book that I wrote about it, which is about how we're artists as therapists. And he's like, I hear you now. Good. And I was like, okay, good. You're right.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0073",
+      "content": "Yeah. As he suggests, existentialism is what allows us to be more alive and creative as human beings. Yeah. You say having such a keen imagination and open heart makes those with OCD very susceptible to these existential concerns at nearly every turn. So would you argue that in his book, you know, existential psychotherapy, which is a Bible for people like us? Yeah, because like that big. He has a section of the givens of human existence. Yeah. Do you think people with OCD are more sensitive to each of those givens? Yeah. I think they know about those givens. I think they're aware of them percociously, very early, and also adults don't expect them to understand them and don't necessarily talk both in a way that's age-appropriate. And also that's a way that takes the sophistication. So you know, I think, I think, so I have a story",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0074",
+      "content": "in the book about my son. Once we were downstairs during the pandemic, and my eyes flashed upon my old piano bench. And I started to think about my mom, who passed away several many years back, and didn't get to meet my son. And I was feeling both the wistfulness of my mom, my mom prized my playing as a pianist. She encouraged it. And then I was thinking how I missed my mom being able to meet my child, my son, and my son without missing a beat, he was about three. So Dadda, why are you sad? Now he could pick up with that emotional sensitivity. He could tune into it. Do you think he has OCD times? I think he has the sensitivity part of it. Wow. Because he misses nothing. I mean, his preschool teacher said, Aiden is lovely. He's smart, he's cute, but nothing",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0075",
+      "content": "misses nothing. And I wanted to say, and he misses nothing. Right? And exactly what you're saying is that I do think that people with OCD are keen to be friendly, aware of the existential givens. And that's what I think is the beauty is that. So I joking in the book that OCD is like playing six degrees of Kevin Bacon. Yeah, I was going to ask you that. And Kevin Bacon is the death. But if you can focus, if you can actually face death as Yolum talks about, then you're really living and making meaning out of life. Yes. Well, how do you think Kevin Bacon would feel that you likened him to Dadda at the core? Yeah. I think he's been successful and still looks young enough to not really get to bother by it. I consider him a mosh, Kevin. I mean, really, you know,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0076",
+      "content": "okay? Okay. Because if you think about it, I'm going to, I'm going to rationalize this one because if you think about it, when I'm talking about the Kevin Bacon, actually, when you're talking about death, you're actually really talking about life, right? So fear of death is really the fear of not being fully alive. It's completely, that's it. And that's what so poetry, like I was once taught, is both about love and loss. Yeah. It's about the line ending, but what we do with the breaks. And it's about kind of being in that contradiction. So I really see Kevin Bacon. I really see it's about life by facing death. Exactly what Yolum would say. Like, Yolum doesn't write about existentialism being like, oh my gosh, like I'm a morbid goth. Did he wrote a whole book on the importance of facing death? Yeah. So the sun's,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0077",
+      "content": "right? Yeah. Yeah, really beautiful. So Kevin Bacon is the sun. Yeah. I get it. I think that's a good rationalization for making Kevin Bacon feel good about himself. Yeah. Because he's going to listen to this. He's also a great musician too, by the way. I mean, yeah. Don't let's not flatter Kevin Bacon too much. I mean, yeah, that's true. He don't want to his ego to add a control. Let's end this interview today with a point you made in your book. Edith Essence, what you did in your book is you drilled down to the core of OCD, which you conceptualize as a profound and precocious existential awareness that sensitizes you, not only to loss, but also to the fragile beauty of life itself. You also explored how being in touch with these questions in a creative way with proper support could make it possible to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0078",
+      "content": "make this experience of OCD creative and awe inspiring rather than terrifying. So I just want to thank you so much for stripping some of that terrifying nature of it and expanding our views of OCD. You've helped me personally in reading this book. I want to send a copy of this book to my mom and to anyone I know who has OCD and really humanize this in a really important way. And this was also my first time ever coming out as having OCD. So I thought it was a big, good place to do that. Welcome to the club. It's a good club to be a part of. Yeah. So thank you so much, Michael. I'm really so deeply appreciative of you being here. Thanks so much, Scott. This has just been a pleasure. We asked parents who adopted teens to share their journey. We just kind",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0079",
+      "content": "of knew from the beginning that we were a family. They showcased the sense of love that I never had before. I mean, he's not only my parent, like he's like my best friend. At the end of the day, it's all been worth it. I wouldn't change the thing about our lives. Learn about adopting a teen from foster care. Visit adoptuskids.org to learn more. Brought to you by adoptuskids, the US Department of Health and Human Services, and the ad council. I am Bob Pittman, Chairman and CEO of I Heart Media. I'm excited to share my podcast with you, Math and Magic, Stories from the Frontiers and Marketing. This week I'm talking to the CEO of Moderna, Stefan Bonsel, about how he led his team through unprecedented times to create, test and distribute a COVID vaccine all in less than a year. If it comes a human",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0080",
+      "content": "decision to decide to throw by the window your business strategy and to do what you think is the right thing for the world. Join me as we uncover innovations in data and analytics, the math, and the ever important creative spark, the magic. Listen to Math and Magic, Stories from the Frontiers and Marketing on the I Heart Radio app, Apple Podcasts, or wherever you get your podcast. Ever wonder what it would be like to be mentored by today's top business leaders? My podcast, this is Working Can Help With That. Here's some advice from Jamie Dimon, the CEO of JP Morgan Chase, on standing out from the leadership crowd. Develop your EQ. A lot of people have plenty of brains, but EQ is do you trust me? And to communicate well, develop the team, develop the people, create a system of trust and it works over time.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0081",
+      "content": "I'm Dan Roth, LinkedIn's editor in chief. On my podcast, this is Working, Leader Share Strategies for Success. Listen on the I Heart Radio app, Apple Podcasts, or wherever you get your podcast.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Upside_of_OCD_w_Michael_Alcee.mp3"
+    }
+  ]
+}

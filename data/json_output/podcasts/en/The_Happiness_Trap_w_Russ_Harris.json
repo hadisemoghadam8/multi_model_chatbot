@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "title": "The_Happiness_Trap_w_Russ_Harris",
+    "language": "en",
+    "type": "podcast",
+    "source_path": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+  },
+  "chunks": [
+    {
+      "chunk_id": "podcast_en_0001",
+      "content": "I'm Soledad O'Brien and on my new True Crime podcast, Murder on the Toe Path, I'm taking you back to 1964 to the cold cakes of artist Mary Pincho Meyer. She had been shot twice in the head and in the back. It turns out Mary was connected to a very powerful man. I pledge you that we shall neither commit nor promote aggression. John S. Kennedy. Listen to Murder on the Toe Path with Soledad O'Brien, starting April 23rd on the iHeartRadio app, Apple Podcasts, or wherever you get your podcast. In 2020, a group of young women found themselves in an AI-fueled nightmare. Someone was posting photos. It was just me making. Well, not me, but me with someone else's body parts. This is Levitown, a new podcast from iHeartPodcasts, Bloomberg, and Colliderscope, about the rise of deep-fate pornography and the battle to stop it. Listen to Levitown",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0002",
+      "content": "on Bloomberg's Big Take Podcast, find it on the iHeartRadio app, Apple Podcasts, or wherever you get your podcasts. I'm Clayton English. I'm Greg Lodd. And this is season two of The World Drugs, but I can't. Last year, a lot of the problems of the drug war this year, a lot of the biggest names in music and sports. This kind of started a little bit, man. We met them at their homes. We met them at the recording studios. Stories matter and it brings a face to it. It makes it real. It rarely does. It makes it real. Listen to the new episodes of The World Drugs Podcasts, season two. On the iHeartRadio app, Apple Podcasts, or wherever you get your podcasts. A big part of the model is learning to unhook from those, you know, harsh self-judgments, and instead bringing some self-compassion, what are kind things",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0003",
+      "content": "we can say to ourselves, kind things we can do for ourselves. Today, it's great to have Russ Harris on the podcast. Russ is one of Australia's foremost practitioners of acceptance and commitment therapy, a mindfulness-based psychological therapy that aims to help you reduce stress, overcome fear, and find fulfillment. In this wide-ranging episode on mental health, we discuss Russ's happiness trap cards, which include ideas such as your mind is not your enemy, when emotional storms blow up, drop anchor, and urges are like waves. We also cover our self-esteem, the experience of being human, and how to set yourself up for success in life. I'm a long-time admirer of Russ Harris, and I'm so glad I was finally able to chat with him on my podcast. So with that further ado, I bring you Russ Harris. Russ Harris, how are you? Great, thank you. Thanks for inviting me.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0004",
+      "content": "I just had my 58th birthday yesterday, so I'm recovering from too much cake and sugar and chocolate. Happy birthday. Thank you. To the legend himself. You've really made quite a name for yourself, and really helped a lot of people reclaim their mind, in a lot of ways. I feel like everyone feels like they're losing their minds. Thank you. Yes, I think we all feel that way at times. Definitely. Because your background is in ACT, is that right? Yeah, like your official constitution is act. Yeah, that's right. If you cool at ACT within a shot of Professor Stephen Hayes, the guy, he actually comes, he pops out in like the candy man. Yeah, that way. But the act is a good abbreviation for the model acceptance and commitment therapy, because at the core of it, it's about taking action. Doing things that are meaningful and important",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0005",
+      "content": "in life to make your life better. Yeah, and so that's your training and specialty, but it really, this approach really encompasses so much of human life. And this book, you know, you obviously wrote the best so, or the happiness trap, but this most recent book, the Happiness Trap Cards, although maybe it's not a book. Let's just say, this collection of cards, the Happiness Trap Cards is really all-encompassing. I mean, as I'm reading it, I'm like, wow, he's covering from self-esteem to thinking, thinking traps to living a life of gratitude. I mean, it's really, it's all mental life. Yeah, I look, it was much harder creating the cards than it was writing the book. And when you write a book, you can go into stuff in depth, in detail, you can, you know, spend a whole chapter exploring a concept of such as mindfulness or self-compassion.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0006",
+      "content": "But when you've got a deck of cards, you really got to just distill that down to two or three paragraphs, you know, or I think the limit was 200 words per card on one night. Just still a concept and then put a slow exercise or skill or technique up to the other side. Boy, was it hard. I mean, talking about losing your mind, I really did lose my mind writing that. It sounds like it's like a tweet. Everything's a tweet. Yeah, yeah, I've never been onto the Twitter space. Well, I tell a lie, I was on it for about a month and then I gave up. It was just to be stressful. It just is like an entryway into act. Can you just tell people a little bit, like what are the core, what's the core concept of unhooking? You know, what does that mean?",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0007",
+      "content": "And because you kind of start off the book with that. Yeah, well, so basically, difficult thoughts and feelings show up for all of us throughout the day, every day, you know, life is stressful. We all have challenges. And the human mind often interprets things in a way that makes things even more stressful than they need to be. So when I use the term hooked, what it means is your thoughts and feelings are having a huge impact on you. They're jerking you around. They may pull your attention away from what's important, what's meaningful. So you're no longer focused on what you're doing, you're no longer engaged in what you're doing. Or they may hook you in other ways, pull you into patterns of behaviour that are self-defeating that make life worse rather than better, you know, drugs or alcohol or, you know, shouting at people that",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0008",
+      "content": "you love or procrastinating on important stuff, all of those self-defeating patterns of behaviour that we all do to one extent or another. So who basically means your thoughts and feelings, just having this huge impact on your actions or on your attention and just kind of pulling you away from what's important or pulling you into self-defeating patterns? One of this approach is obviously very similar as well to Susan David's idea of emotional agility, right? Yeah, absolutely. Susan David uses acceptance and commitment therapy. She acknowledges it at the back of the book that she doesn't really mention it throughout the book, but yes, her book is absolutely based on the same approach. And we've had a retta as the guest speaker at the world at conference. And she said she didn't kind of reference it throughout the book because she didn't want her book to be filled",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0009",
+      "content": "up with sort of, you know, scientific references, but it's exactly the same approach actually. And so unhooking skills are a set of skills that you use to take the power and impact out of those difficult thoughts and feelings. It's not about getting rid of them or suppressing them. It's about just kind of having a new way of interacting with them so they just lose their power. They become like water off a duck's back. They can't jerk you around. When did you get so interested in this approach? Well, it was started from a personal journey. I mean, I graduated as a junior doctor in my 20s and I was, you know, miserable. I was depressed. I was anxious. And I couldn't understand why. I mean, you know, being a doctor, everyone said that was going to make your life brilliant. You know, it's prestige, status, it's",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0010",
+      "content": "a meaningful job. It's good money. But I was miserable. I started, you know, exploring why am I so depressed and miserable when I've got everything that, you know, society tells us, make your happy. And basically what happened was through my own personal therapy and through reading lots of self-help books and doing lots of self-development. I started to become very interested in the psychological aspects of medicine and lose a much interest in the physical side. And so I was, I was working as a GP, family doctor in Melbourne, Australia. And I found that as a GP, my consultations with my patients were getting longer and longer and longer. And we were talking more and more about the psychological sides of health and less and less about the physical side. And I started to realize that I was in the wrong profession. Gradually, I started retraining as",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0011",
+      "content": "a therapist and it was, my income went down and down and down because as a therapist, you earn much less money as a doctor. But my, but my satisfaction went up enough. I found this is what I was really interested in. And this is what fulfilled me helping people, you know, deal with their psychological health issues and build richer lives. So I, you know, it's a couple of long stories short. I arrived at Act through a long journey of trial and error and blind alleys, training in many different models of therapy. And each model I found some things that I liked and some things that I didn't like and some things that worked and other things that didn't work. The real good things in every model, but eventually when I discovered Act, acceptance and commitment therapy, it just seemed to have everything that I was",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0012",
+      "content": "looking for, hauling one package. And it was just love that first site. It was, I read the first textbook on that was out at the time. It's like, oh, this is amazing. This is incredible. This is just what I've been trying to do. And it's been a love affair that's last ditched for over 20 years now. So it just keeps getting richer and deeper all the time. I really like it too. How would you describe the difference between Act and Collegiate Behavioral Therapy, particularly the new crop of it, the mindful Collegate Behavioral Therapy that my friend Seth Gillhand is kind of spearheading? Yeah, well, you know, I think it's a hard question to answer because Collegiate Behavioral Therapy is evolving all the time and Act has massively influenced it. So a lot of stuff from Act has actually crept into CBT. Traditionally, probably the biggest",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0013",
+      "content": "difference with CBT encouraged you to get into a battle with your thoughts, you'd start analyzing them whether they're true or false and challenging and disputing them and trying to get rid of the negative thoughts and replace them with positive thoughts, whereas Act doesn't do that Act. You acknowledge your thoughts, you recognize that even the most difficult negative thoughts are at some level your mind actually trying to help you. When you're worrying a lot, your mind's trying to help you in, you know, point out things that are dangerous, point out things that you need to take action on. And so I often describe the mind as like an overly helpful friend, you know, Scott, have you ever had one of those overly helpful friends? Yeah. I called it, I called Intrusive Helping Intrusive, that's, I love it, brilliant. Trying so hard to help become a real",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0014",
+      "content": "nuisance. And that's usually what our mind is doing. So we don't want to get into a battle or a fight with it. We want to kind of acknowledge it's trying to help, but kind of take the power and impact out of those thoughts, learn how to see that there's nothing more or less than words and pictures popping up in our head. We don't have to fight with them. We can just learn to let them flow through us and have them. And so that's probably the biggest difference, instead of fighting good as beauty, we can just let the thoughts, you know, float on by like water off a dot's back really. Right, right, right. And it's not entirely about your cognitive distortions. There's also a great sense of like acting in the world and and getting out of your mind, like, like, not get not overthinking",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0015",
+      "content": "it. Yeah, there's, there's, there's a, you know, a lot of emphasis on mindfulness skills. I'm kind of bringing your attention to what's important, but I'm focusing on what's important, engaging in what you're doing and savoring the potentially enjoyable, pleasurable aspects of what you're doing. But it act is a bit different to other models in that it doesn't emphasize meditation. Right. Meditation is, let's be honest, for a lot of people, it's very boring and very difficult. So it kind of teaches mindfulness through lots of simple, easy to implement strategies that you can build into everyday life, you know, without meditating. Yeah, yeah. Good point. What is your mind, not your enemy? Why is it not your enemy? Yes. Yeah. Well, because it's always basically, you know, fundamentally, your mind is like a problem solving machine. It's always trying to do one of two things inside of",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0016",
+      "content": "a trying to help you get things that you want or help you have all these things that you don't want. You know, say if you think about when your mind starts beating you up, judging you, does your mind judge and criticize you, Scott? Yes, of course. So, you know, could you give us an example if it's not to asking too much, you know, what's a mean nasty thing that your mind says when it's judging you? Well, you're a silly goose. And so it's not just saying that, you know, I must say your mind's quite polite, my mind's a bit rooted in me, but you know, when your mind kind of judges you that way, what's it trying to do? What's it trying to, it's basically trying to say if you keep doing this, something bad's going to happen. If you keep saying these things or",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0017",
+      "content": "doing these things, you're going to upset people, you're going to get rejected or you're going to screw up. You know, if your mind saying you're you're a bad mother, it's trying to help you shape up and become a good mother. If your mind saying you're, you know, you're stupid, it's trying to tell you, well, there's an important area that you need to skill up on or do differently or you need to kind of, you know, handle these things better or more effectively. So it's not deliberately trying to make you miserable. It's actually trying to help you. Unfortunately, that strategy is not a particularly useful strategy, you know, judging and beating ourselves up. It does sometimes motivate us, but other times it has the opposite of effect. Like Scott, you've got a, you've got a pet donkey, right? That carries your load to market every Saturday.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0018",
+      "content": "Sure do. Yeah. And you know, there's two ways to motivate your donkey, right? Karen and Stick. That's right. And so, you know, you can motivate your donkey with a stick and whack it in, it'll kind of carry the load. But over time, you end up with a miserable, you know, bruised battered donkey. And that's really what self judgment is. It's our mind using the big stick to motivators. But luckily in actually, we've got something that's much better than a carrot, you know, you can motivate your donkey with carrots. It'll carry the load. You end up with a happy, healthy donkey with really good night vision, right? But we've, we've got something much more motivating than carrots. We've got something called values and values are sort of your heart, steepest desires for how you want to behave as a human being, how you want to treat",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0019",
+      "content": "yourself, how you want to treat others. And once we are clear on our values, we can use them as a compass, as an inspiration, as a guide to help us do the things that we really want to do in life. Yeah. You've a really gentle way of being. It's very compassionate. And, and gentle on the one self, I could imagine enjoying being your patient. Well, yeah. I hope so, you know, I mean, self-compassion is such an important part of the problem. You know, a default setting for most of this is we just judge and criticize ourselves. And, and, you know, again, just like sometimes that will motivate a donkey to carry the load, it will motivate us at times. But it's a, a life training form of motivation. So a big part of the model is learning to unhook from those, you know, harsh self-judgments",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0020",
+      "content": "and instead bringing some self-compassion, what are kind things we can say to ourselves, kind things we can do for ourselves. I often will ask my clients, you know, if somebody else were, you know, had just screwed up like you've screwed up or have just made this mistake or is going through something painful like what you're going through, you know, and if you love this person and you want it to be a source of care and support and kindness to this person, what would you say to them? Yeah. And usually it's so different to what they're actually saying to them self instead of this harsh criticism, there's this really kind and supportive language comes out. You know, in act we encourage people to have hooked from the harsh self-criticism and kind of find kind ways of talking to themselves and more importantly, kind things that they",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0021",
+      "content": "can do for themselves, like very often when we're in pain, we go for the drugs or the alcohol or the junk food or, you know, the unhealthy distractions. We do all sorts of things to try to escape and repeat those painful feelings. Oh yeah. But a big part of act is learning how to open up and make room for those painful feelings and be kind to ourselves and take the power out of those painful emotions, letting them sort of flow through us without sweeping us away. Yeah, it's beautiful. It's beautiful. What is the idea of dropping the anchor when your emotional storms blow up? How can we, anyone do that in any time in their life? Yeah, well, yeah. So it's cool dropping anchor because, you know, you're both sailing into the harbor, you hear on the radio, there's a big storm blowing up. What's",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0022",
+      "content": "the first thing you need to do when you get into the harbor? It's a little bit requested. You need to drop anchor, right? You know, I need to have some stability, some stability in my life. Exactly. And if you don't drop anchor and that storm blows up, your boat's either going to get smashed against the other boats or swept out to sea. And so it's the same with emotional storms for it, you know, for our, when the going gets tough, we have emotional storms. For some people, it's anxiety, storms. For some people, there's sort of depressing storms for some people. There's that anger that basically we get jerked around by these painful emotions. And they sweep us away. And they, so dropping anchor is sort of learning to do the same thing with our own emotional storms. We learn how to keep ourselves steady so",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0023",
+      "content": "that the emotional storm doesn't pull us away from our life or sweep us off into self-destructive or problematic behaviors. And I like this metaphor, because, you know, anchors don't control storms. You know, when you drop an anchor, it doesn't make the storm magically go away. It just holds the boat steady. So the same when we drop anchor with our own emotional storms, it's the way of holding ourselves steady. And all emotional storms will, you know, they'll rise and they'll peek and then they'll fall again. So let's order that the steady took the storm passes. This is Quartzide with Laura Carrenti, the podcast that's changing the game and breaking down the business of women's sports like never before. I'm Laura, the founder and CEO of Deep Blue Sports and Entertainment. You're inside source on the biggest deals, power moves, and game changers, writing the playbook on",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0024",
+      "content": "all things women's sports. From the heavy hitters in the front office to the powerhouse women on the pitch, we're talking to commissioners, team owners, influential athletes, and the investors betting big on women's sports. We'll break down the numbers, get under the hood and go deep on what's next. Women's sports are the moment. So if you're not paying attention, you're already behind. Join me Quartzide for a front row seat into the making of the business of women's sports. Quartzide with Laura Carrenti is an I Heart Women's Sports production in partnership with Deep Blue Sports and Entertainment. Listen to Quartzide with Laura Carrenti starting April 3rd on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. Presented by Capital One, founding partner of I Heart Women's Sports. I'm Clayton English. I'm Greg Lod. And this is season two of the World Drugs by",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0025",
+      "content": "a church. We are back in a big way. In a very big way. Real people, real perspectives. This is kind of star-studded a little bit, man. We got Ricky Williams, NFL player, Hazmatrope winner. It's just the compassionate choice to allow players. All reasonable needs to care for themselves. Music stars Marcus King, John Osborne from Brothers Osborn. We have this misunderstanding of what this quote unquote, drug man. Benny the butcher, Brent Smith from Shine Down. Got B Reel from Cypress Hill. NHL Enforcer Riley Co-Tay. Marine Corvette, MMA fighter. Liz Caramouch. What we're doing now isn't working and we need to change things. Stories matter and it brings a face to them. It makes it real. It really does. It makes it real. Listen to new episodes of the War on Drugs podcast season two. From the I Heart Radio app, Apple Podcasts or wherever you get",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0026",
+      "content": "your podcasts. And to hear episodes one week early and free with exclusive content, subscribe to Lava for Good Plus on Apple Podcasts. You feel in this too. A horror anthology podcast. Listen on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. Yeah, it's very in line with my cell model of self-actualization that we need. This security needs have to be met in the boat itself before we can open up the sale and grow. I like that. Thank you. It's a re-imagine of Maslow's hierarchy. That's not a pyramid, but a sailboat. So yeah, very, very much in line. I resonated with so much of your book and I just pulled out various things that I was not invigorously when I got to them. For instance, this one, I love this quote, to help break bad habits or to disrupt self-defeating behaviors. Ask",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0027",
+      "content": "yourself the workability question. Is what I'm doing workable? Will it work in the long term to help me to build the sort of life I want? Will it work in the long term to help me become the sort of person I want to be? Yeah, that's very active you know, moving in the direction of your values is, yeah, it's wonderful. Can you elaborate a little bit more on the workability question? So workability is one of the key themes in act. The question is, is what you're doing working to build the life you want to be the sort of person you want to be doing the things you want to do? And this is the problem. If we go back to the idea of the mind as a problem solving machine, the default setting of the mind is it doesn't really consider the long term big",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0028",
+      "content": "picture. It's just what do I need to avoid right now? What do I need to get right now? So if we can start to add in, you know, this kind of reflective way of considering, you know, is what I'm doing really working in the long term in the big picture to give me what I want. That can help us help us kind of, you know, well actually, you know, no, it's not really, it's meeting my needs in some way or it's getting me what I want in the short term, but it's not really giving me what I want in the long term. And that insight is often the first step in changing a problematical self-defeating pattern of behavior. Absolutely. You say that life is a stage show. I would have said life is a shit show, but you know, but you're so such you're so",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0029",
+      "content": "polite. So why is life like a stage show? Well, there is some shit on a life stage show, but there's more than shit there, you know, that's true to you. That's true. Yeah. The amount of shit on the stage varies from moment to moment. So, yeah, I like this metaphor, the idea that life is like a stage show that's changing all the time from moment to moment and on that stage. On that stage, there's all your thoughts, all your feelings, everything that you can see in here and touch and taste and smell. And it's continually changing. And there's this part of you that can step back and watch the show and kind of zoom in and take in the details or zoom out and take in the big picture. And this part of you, in actually, often call it the noticing self, it's the part",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0030",
+      "content": "of you that can notice your thoughts, notice your feelings, notice the world around you. And this part of you plays a big role in mindfulness and engaging in life. There's not really a good word for this part of you in every day language. Sometimes people call it the silent self or the silent witness or the observer self. When people meditate, they sort of build up this sense of this observing part that's able to notice and observe. As I said earlier in act, we don't really get into meditation that much, but there are other ways of building up this kind of observer part, which is useful. Again, if we come back to this idea of unhooking, if you can kind of step back and observe the thoughts that are showing up on a life stage or observe the difficult feelings, but without getting swept away by",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0031",
+      "content": "them, then you'll see that from moment to moment, they change, they come and they go, we don't have to get into a battle with them, we don't have to run away from them. So sometimes there's awful stuff from that stage show and sometimes there's beautiful stuff, sometimes there's shit and sometimes there's sapphires. Sapphires. Yeah, I was trying to think of something that started with an S. I could have said, tilde, sometimes there's shit and sometimes there's silver. There we go. No, I like sapphires. No, no, I like that. You parsed it like sapphires. No, I usually say it was one word, but that's the British way to say it. How do you say it? Sapphires, like one word. Oh, I see, right? Okay. My accent is such a hybrid because I grew up in England, but it actually lived in Australia for more than half",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0032",
+      "content": "my life now. So all these things I sound English, but when I go back to England, they think I sound Australian. I love it. I love the way you talk. It's actually really calming for some. It's oddly poetic. Oh, wow. Like your Kate, your cadences are very poetic. Yeah, I was thinking that as you were talking. So just to continue this, sailboat metaphor and sea metaphor, how are urges like waves? Oh, yeah. Well, so an urge is like a wave in the sense that if you watch a wave, it rises, it reaches a peak or a crest, and then it falls again into a trough, and then it rises, the peak is some falls. And our emotions are like that. Our urges are like that. Even the most intense emotions, they will actually rise and reach a peak and then fall. Even when you're really",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0033",
+      "content": "angry, it doesn't last forever. It rises, it's like crests and peaks and then it falls again. So one of the skills that can really help us to unhook from difficult urges and emotions is something that's called urge surfing or emotions surfing. Yes. Have you ever been surfing? Yes, yes, I've been thrown around by the waves before. And that's what you mean by surfing. You don't want to resist a wave, right? Because what happens if you do resist a wave? No, no. If you resist it, you get slammed. And so surfing a wave means you kind of ride it. And it's the same with our own urges, cravings and tense emotions. We can learn how to surf them, rather than in everyday language, particularly with urges, we talk about resisting urges, but resisting urges is much like resisting a wave. Whereas if we can learn how",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0034",
+      "content": "to surf the urge, let it rise up and I just observe it and notice it's there without acting on it. And instead of struggling with resisting the urge, what we do is we focus on our values. We put our attention into meaningful values based behavior, behaving like the person we want to be. And we kind of take that urge with us. We let it kind of play out inside us without acting on it. And we focus our attention on what we're doing and we engage in what we're doing. And that urge will rise and peak and then fall without sweeping us away. See, that was poetic the way you said that it really was. Hey, yeah. Yeah. No, absolutely, absolutely. And you really can, you can really see that. There I say, if you meditate over a long period of time, you really just start",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0035",
+      "content": "to get intimate with your own patterns of thoughts and you start to realize, wow, I, it all has a certain cadence to it. You know, our, our, our most. Yeah, well, you're right there. And it's important this thing about meditation because, you know, I'm not knocking it for a lot of people. Do you like it or find it useful, but a monster just being realistic. A lot of people find it really hard to do. One of the nice things about act, I think, one of the things that I fell in love with is that it gives us short, simple ways to learn these skills without having to meditate. So you can kind of think of, of meditators, you know, you can get very fit by lifting light weights in the gym. You don't have to go for the heavy weights. There are benefits of going",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0036",
+      "content": "for the heavy weights, but they're not essential to get fitness. And so you can think of meditation as like lifting the really heavy weights. It does add benefits, but there's so much that we can do without meditation. And this is one of the reasons why acts is kind of become popular because it helps people to, to develop these mind from the skills. And, you know, particularly if you've got something like ADHD, for example, you know, it's very hard for ADHD is to sit still and focus with their eyes closed, you know, on their breathing for a long period of time. And we can give them other ways of of retraining their attention that are much more doable. Definitely, definitely. And a lot of your exercises or whatever we want to call them, cards, really help with overwhelm, right? They help with this feeling of the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0037",
+      "content": "world is too much. I'm feeling too much. I'm thinking too much. Yeah. Well, you know, in a sense, that was one of the main motivators for actually creating the card deck because, you know, when you're really, you know, when you're really overwhelmed, it's hard to read a book. A book just seems too much. But if you just, you know, each card has got one little point that it makes and one little practice that you can do. So, when you're overwhelmed, you can pull out one. And that one little thing can make a difference. You know, one of the problems with overwhelm is, you know, your mind's just going to everything that's going on in your life. And so one of the most useful things you can do is narrow your focus, just focus it on one thing, one little thing you can do, no matter",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0038",
+      "content": "how small that might be, one little positive thing. Yeah. Yeah. It's gotten me through a lot of panic attacks, that advice. Yeah. Great. So why do you bring chess into this? Why should you be like a chess board? There are a lot of great metaphors in act. And, you know, the danger is of metaphor abuse, you know, you can't give somebody so many metaphors that just completely overwhelmed by metaphors. But, you know, the chess board metaphor is a nice one because it basically goes this way, you know, for one side of the board, the pieces are all your sort of negative thoughts and feelings. I'm on the other side of the book order, all your positive thoughts and feelings. And we go through life caught up in this battle. We're trying to get a positive feelings to dominate the board and wipe out all the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0039",
+      "content": "negative pieces. But there's two problems. If going through your life this way, one is there's an infinite number of positive and negative feelings. So, you know, this is a battle that can never be won. Now, the other problem is that positive pieces actually attract negative pieces. You know, you move forward the positive piece. I'm a good friend. It attracts the negative piece. Well, no, you're not. What about the time you said this? What about the time you did that? You know, you move forward the positive piece. I am lovable. It attracts the negative piece. Well, no, you're not. What about your big fat and gut? What about your stretch marks? What about your balding head? You know, it's kind of a, so what act teaches us to do is step out of that battle instead of, uh, uh, learn how to be like the chess",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0040",
+      "content": "board. So the chess board holds the pieces. It's in contact with the pieces, but it's not fighting. It's just making the space. Pieces can move. Um, so again, it's another way of just looking at this idea of unhooking from our thoughts and feelings. Um, another one. Yeah. It's really good. It's really good. Um, why is there a no delete button in the brain? Wouldn't it be great if there was, you know, it would be great. If we could just kind of delete all those unwanted thoughts and all those difficult memories. But, uh, the brain doesn't work that way. Um, yeah, I'm sure most of your listeners have heard of neuroplasticity, this idea that the brain is plastic and that it changes throughout your life. And that's true. Your brain does, but it doesn't change by pulling out old neural pathways. The way it changes is",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0041",
+      "content": "by laying down new neural pathways on top of the old ones. So, um, you know, if, if the 30 or 40 years, your mind has been saying, you know, I'm a loser, I'm a loser, you're not going to magically be able to delete that neural pathway. Uh, what you can do is lay down a new one that kind of goes, oh, there's the loser story. Oh, okay. Thanks, mind. I know you're trying to help. Uh, there you are. You're kind of beating me up a bit, hoping to motivate me, but hey, it's okay. I'm dealing with it. Uh, you know, I know this one. Uh, so that new neural pathway helps us to canna see this is just a bit of old programming. It's a bunch of words popping out. It's my mind trying to help by pulling out the big stick to beat up",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0042",
+      "content": "that donkey. That's, you know, and, uh, very popular, you know, if, if I say to you, um, I say to you, Mary had a, what pops up? A big dog. But before you said big dog, what pops up in your head? A little, a little land, a little land, you know, and so, you know, anyway, you're programming. And, and suppose you can't get rid of that, right? If you grew up in in North America, Australia, the United Kingdom, New Zealand, then you learnt the, the rhyme Mary had a little lamb at a very young age. You can't just delete that. Any point in your life, someone comes up to you and says, Mary had a, you know, the first thing that pops into your head is a little lamb. You may then say, oh, a big black dog. But the first thing that pops up",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0043",
+      "content": "is little lamb. I had to use this old programming. You can't delete it, but you can add new stuff on top that helps you to see. Here's my old programming. Yeah, it's like, uh, you know, don't, don't think of a white bear. And, uh, you can't help but think of white bears. You know, or that never helps. No, I don't. But yeah, we can, we can definitely forge new pathways. For sure. Yeah, I mean, you know, all the self-help approaches, and even all CBT approaches, actually, did you do encourage that sort of something called thought stopping? So an unwanted thought would show up and you'd silently say, stop or you'd imagine a stop sign and you'd push it away. But hopefully no modern, uh, approach encourages that because the research is so clear that you can push those thoughts away for a short space of",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0044",
+      "content": "time. But in the long term, there's a rebound effect. They come back with greater and greater frequency and intensity. So yeah, as you said, if you're trying not to think about white bears, you might be able to push those thoughts away for a short space of time. But in the long term, it was going to be, yeah, it's going to be full of white bears everywhere going crazy. Yeah. And that's not fun when that happens. What is the, if you've got a phobia of white bears, then it's really not fun. Yes, yes. They could help you with exposure therapy, perhaps. I don't know. I think about being eaten by white bears very slowly. Yeah. I don't know. The brain is a funny thing. You never know how a person's going to react. This is court side with Laura currently, the podcast that's changing the game",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0045",
+      "content": "and breaking down the business of women's sports like never before. I'm Laura, the founder and CEO of Deep Blue Sports and Entertainment, your inside source on the biggest deals, power moves and game changers, writing the playbook on all things women's sports from the heavy hitters in the front office to the powerhouse women on the pitch. We're talking to commissioners, team owners, influential athletes and the investors betting big on women's sports will break down the numbers, get under the hood and go deep on what's next. Women's sports are the moment. So if you're not paying attention, you're already behind. Join me, court side for a front row seat into the making of the business of women's sports. Court side with Laura, currently is an I heart women's sports production in partnership with Deep Blue Sports and Entertainment. Listen to court side with Laura currently starting April",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0046",
+      "content": "3rd on the I heart radio app Apple podcasts or wherever you get your podcasts. Presented by Capital One, founding partner of I heart women's sports. I'm Clayton English. I'm Greg Lott. And this is season two of The War on Drugs by Icaz. We are back in a big way in a very big way. Real people, real perspectives. This kind of star-studded a little bit, man. We got Ricky Williams NFL player, Hazmatrope winner. It's just the compassionate choice to allow players. All reasonable needs to care for themselves. Music stars Marcus King, John Osborne from Brothers Osborne. We have this misunderstanding of what this quote unquote drug man. Benny the butcher. Brent Smith from Shine Down. Got B Reel from Cypress Hill. NHL enforcer Riley Coetay. Marine Corvette. MMA fighter. Liz Caramouch. What we're doing now is working and we need to change things. Stories matter and",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0047",
+      "content": "it brings a face to it. It makes it real. It really does. It makes it real. Listen to new episodes of The War on Drugs podcast season two. From the I heart radio app Apple Podcast or wherever you get your podcasts. And to hear episodes one week early and add free with exclusive content, subscribe to LavafrGood Plus on Apple Podcast. That looked exactly like my own. I wanted to grow up. I wanted to scream. It happened in Levertown, New York. But reporting this series took us through the darkest corners of the internet and to the front lines of a global battle against deep fake pornography. This shouldn't be illegal but what is this? This is a story about a technology that's moving faster than the law and about vigilantes trying to stem the tide. I'm Margie Murphy and I'm Olivia This is Levertown, a new",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0048",
+      "content": "podcast from I heart podcast, Bloomberg and kaleidoscope. Listen to Levertown on Bloomberg's Big Take podcast. Find it on the I heart radio app, Apple Podcasts or wherever you get your podcasts. What is, you know, what is the self-esteem trap? Why is it a trap? Oh gosh. Well, you know, self-esteem didn't really exist until about the 1960s. It kind of one of the USA's exports to the rest of the world. This idea that you have to think positively about yourself and have a high self image and reflect on all your strengths and your positives and everything that's great about you. You know, this has just become part of the culture now. But before 1960s, that would have been a very alien concept. Parents tell this to their children. You have to have a high self-esteem. Teachers tell it to the kids and coaches tell it to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0049",
+      "content": "their coaches. And the problem is that there's no doubt that low self-esteem is problematic. That high self-esteem has a dark side too. I mean, what's the danger of going around thinking you're the greatest, you're wonderful. You know, is that the same thing as narcissism though? Because I've seen high self-esteem as distinguished from narcissism. Well, I think it overlaps. So, you know, high self-esteem easily overlaps with narcissism, overconfidence, arrogance, egotism, inflated self-confidence. So that's the dark side of high self-esteem. You know, if you can hold these stories lightly, I mean, act is more focused on self-acceptance and self-compassion. So, self-esteem is kind of about focusing on all my positives, all my strengths, everything that's right and good about me. For a self-acceptance is accepting myself with my pluses and my minds, is acknowledging my strengths and my, you know, positive sides, but also acknowledging my weaknesses",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0050",
+      "content": "and my failures and accepting myself with all of that. Self-compassion is being kind to myself when I'm suffering and I'm in pain. So, in actually, kind of emphasize the self-acceptance and self-compassion. We're not saying that self-esteem is bad. It's just not part of a model. And there is a downside to it. Certainly, as it's promptly taught in a lot of self-help programs, there is a lot of emphasis on trying to really build up that positive thinking and that can have, you know, it's just like the chessboard metaphor we were talking about. Actually, there's actually some good research that people with low self-esteem that practice positive self-affirmations often get worse, not better. Because they get caught up in that battle, they're saying, you know, I'm lovable and worthwhile, and the mind comes back with, well, no, you're not. What about this and what about that? They",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0051",
+      "content": "end up worse off. Well, narcissists don't think like that. So, it needs to write a book for narcissists to be a little bit harsher on yourself. Well, what happens with narcissists is they're kind of deeply afraid, deep inside, that they're not good enough, that they're worthless. And so, they're just desperately clinging to this story. I'm wonderful, I'm the greatest and no one else is good enough. And that's their strategy from escaping a deep-seated sense of self-worth, of low self-worth, sorry, low self-worth. Somebody is jealous of narcissists, no, I'm Jeff Hangegoye. That's a lot. Labyrinth justification there for, you see this in therapy, you know, occasionally, like, you know, most really narcissistic clients are not great therapy clients, because they won't go there, they won't acknowledge the difficult stuff. But sometimes they will, and what you find is just this deep sense of worthlessness, emptiness, and",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0052",
+      "content": "just clinging to this story that I'm a great person to try to escape that. So it's very difficult to work with in therapy. Yeah, yeah. That's true. My friend Keith Campbell says the only narcissists who end up in the culture, either vulnerable narcissists or grandiose narcissists who've been forced to go there by their girlfriends. He's a world expert on narcissism. Keith Campbell. Yeah. Well, you know, I suppose it depends on the type of therapy you go to, if you go to the sort of therapist who just lets you kind of, you know, talk or about, you know, I don't know it's the same term in USA, but in Australia, we call it supportive counseling, where the therapist doesn't really do very much, they just kind of listen and nod their head, validate how difficult life is. And, you know, so a narcissist would probably take",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0053",
+      "content": "very well to that kind of therapy, because it doesn't challenge them. That's a good point. We're talking about a disciplinary therapy is what we're talking about. But they don't like it. No, I don't know if that's not a thing, folks. I was joking. They just think it's disciplinary therapy. But you could start it, Scott. They would be people. Basically, disciplinary therapy is where narcissists go, where you tell them, you're a loser. You basically do the exact opposite of like, you know, the point of your whole book, it turns it all around. I think that'd be a good stand-up comedy bit. I'm actually adding this to my list for my next stand-up act. You know, the exact opposite. You get it. You get what I'm saying. I do. I do. Yeah. Let's talk about my favorite one in your whole book. Well, okay, one of my",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0054",
+      "content": "top three. Top three favorite. Noticing your direction. This is something that you can even course correct yourself at any point. Sometimes we get not a pilot and we could be just noticing that we're not really moving the direction we want to be moving. Yeah. Absolutely. That's a really just useful thing to do as I just a quick check-in through the day. What direction am I going in? It really is never too late to change course. It's in normal every day life. It's like, okay, let's try something different. That's when it's good to drop an ankle and just kind of start, you know, have a stretch, take a breath. Notice what you're thinking. Notice what you're feeling. Notice what you're doing. And then consider, you know, how can I course correct? What's the little thing that I can do? Tiny thing to start moving in the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0055",
+      "content": "direction I want to move. It's all hopeful. It's all hopeful. To feel like you can course correct like my friend Sharon Salisbury says, you know, like you can return to your breath anytime you want. I mean, it's you can start over. She says at any moment, you can just start over by return to your breath. Yeah. I love that. Sharon Salisbury quick. Yeah. Yeah. Yeah. She's great. Legend. Like you, she's a legend. She's got a very calming voice, hasn't she? She's a very calming voice. Yeah. I love hanging out with her. I feel very calm. So the dance of Love and Pean, and this is not a 80s rock song, right? It could be. It could be a good reason. It could be. It could be. It could be. It could be. Yeah. I mean, basically, Love and Pean, you know, they are intimate dance",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0056",
+      "content": "partners. They often do go hand in hand, you know, not all the time, but when you're in a loving relationship with someone, boy, oh boy, there's going to be pain. And that's not what you you want or what you expect or what you hope for, that you can't have a loving committed relationship with anybody with with your partner or your children or your friends or your family without paying showing up, you know, because you have different wants, different needs, different expectations. Also, when you love someone and something bad happens to them, that's intensely painful for you too. But our culture doesn't really prepare us very well to deal with the pain. And certainly popular movies and books and TV shows, it's all about the wonderful feelings of being in love. And, you know, particularly when it comes to romance and romantic movies, you know, it's",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0057",
+      "content": "love, love, love, love, love, love and be a little bit, little bit of pain in that movie, but it's mostly about love and feeling wonderful. And, you know, it's real life. It's not like that. There's a lot more pain that we are a form for another. So we need to learn how to open up a mate room for the pain in order to have the love and have the connection and and do the things necessary to build those rich relationships with others. Yeah, you really say it's so beautiful, you say things that matter also hurt. That really hit that hit when I when I was in that. Yeah, yeah, yeah. Yeah, you said it. You said it. You said it. And it's just it's a really profound truth of human existence. It's like you can't you can't ignore it. Steve Hain is the guy who",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0058",
+      "content": "created it sets up some commitment therapy. He's got a nice way of saying it. He says we hurt where we care. We hurt where we care, you know, and that's true, isn't it? Yeah. Well, yeah, there's definitely a potential for for hurt and that's what you're opening yourself up to with the price of admission. Yeah, absolutely. Yeah, it's, you know, I often say vulnerability is the price of admission to intimacy. You know, if we want to have intimate relationships with with other people, we need to let them know what we're feeling and what we're thinking and what's going on for us and what we care about. And we're vulnerable and we do that. You know, vulnerability, vulnerability comes from the Latin word, fullness, which means wound, you know, so normally we've got our our arm around, we've got our defenses up and we take off",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0059",
+      "content": "our arm, we can be wounded, we can be hurt. And this is intimacy is so often scary and difficult and why we often avoid it. My Tinder exists. Exactly. Sure for all our intimacy problems. Yeah. For people who don't want intimacy or scared of it. Um, what what why should you you told people to stop seeking the magic potion? Why why would you do that to people tell them to stop seeking it? Yeah. Well, so you're talking about the magic potion of confidence or willpower or discipline or motivation. People've got a number of magic potions and magic potions. Yeah. Yeah. And you know that people are looking for this magic potion because they say things like I'll do it when I've more confident or I'll do it when I've got the willpower or I can't do it because I don't have the willpower or I",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0060",
+      "content": "can't do it because I don't have the motivation. So it's kind of it's a language trap. It creates the idea that there's this magic pill or magic potion that's called motivation or willpower or discipline. And when I've got that, then I'm going to start doing the things that are important. And it doesn't work that way. Basically what happens is as we start doing the things that are important and making room for all the difficult thoughts and feelings that are guaranteed to show up along the way. Then if we do that over and over again, keep doing the important meaningful stuff, even though difficult thoughts and feelings are showing up, then other people will say, Oh, you've got discipline. Oh, you've got motivation. You've got willpower and other people will think we've found the magic potion that they really never was one in the first place.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0061",
+      "content": "It's about doing acting on your values, doing what's important over and over and over again and making room for all the psychological and emotional barriers that show up as you keep doing that. Yeah, that's very true. Um, even a lot of ways, uh, taking the root of, um, of putting in that hard work in creates the meaning, which creates hurt. So working on that potion again, I'm joking. I'm joking. I'm joking. Sell it through my website. We've got a special offer just 24 hours. No, I mean, good point. Good point. Good point. Um, you, I mean, you talk about how precious life is and, uh, I mean, again, I want to reiterate a point I made at the very beginning of this episode, which is like this book, this notes, what can I call a book? Yeah, yeah. Yeah. This book is like all encompassing,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0062",
+      "content": "you know, like it's not just change your thoughts, you know, change your life. No, it's like jump into your life, jump into the, the, the, the stream of experience full and with fully, you know, you have this whole section on, uh, on the preciousness of life. Can you just talk a little bit about that? I love that. That's, that's top three top three favorite ones. Oh, wow. Yeah. Well, just coming back to jumping into it. Yeah, jump in if you're, if you're willing and ready to kind of jump in, but if you're not, also just dip a toe in, you know, yeah, you know, there might be times where you jump in times where you dive in, but there might be times where you just dip a toe in and you might just put a foot in, you know, it's kind of, as long as",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0063",
+      "content": "you're engaging in life, um, it's, that's the key thing. The, um, uh, it's a given that throughout the day, they'll, throughout the week and throughout the month, there'll be times that we're more able or more willing to kind of engage and do what happens, but even a little bit makes a difference. So, um, it's okay if you just want to stick it to her, but yeah, life is precious. I mean, we know this, the, you know, we, we never know how long we've got or we never know. How long our loved ones have got. We're always shocked when bad things, you know, when people die, you'll get sick, we're injured, um, and, uh, so it's about making the most of the very short time that we have, um, and throughout the day, I mean, most of us waste large amounts of the day, going through",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0064",
+      "content": "the motions on automatic pilot, um, and, and if we can just start to come back and just appreciate this little moment of life right now, and the next one and the next one, well, you know, it makes a difference. Just appreciating the cup of coffee that you're drinking or appreciating the, the, the meal that you're eating or appreciating the smile on the face of somebody you love or just appreciating, you know, like in, in everyday language, we have that phrase stop and smell the roses, right? Do you have that North America? But, uh, yeah, you know, um, so we've got these saying, people have recognized the importance of this for a long time. I'll count your blessings, you know, um, but most of us forget to do it. Yeah. I mean, you say, find the treasure, right? I mean, that's, that's a great reframe, like",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0065",
+      "content": "that you wake up the morning being like, today, I'm going to find the treasure of this human existence. That's a, well, there is stuff that you can treasure even in the midst of great pain and suffering, you know, it's like, I agree. I think funerals are a very dramatic example of this, you know, funerals are a full of pain and sadness. They're also full of love and compassion and people reaching out to each other and, you know, there's, uh, you can, you're not trying to escape the pain, the sadness, the, the grief, but you can at the same time, uh, appreciate the love and the support and the connection and the compassion that is there, you know, and that's what I mean by treasure. It's not ignoring all the painful stuff, but it's also treasuring that the beautiful stuff that goes with him. Yeah. So",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0066",
+      "content": "true. Um, how can you like not set yourself up to fail? Because I, like, I think a lot of people do it all sorts of ways. They don't realize they aren't actually setting themselves up. I mean, I think it's inevitable that we will at times set ourselves up to fail, but that we can get, uh, better at, uh, not doing that by just being more realistic with our goals and, um, you know, uh, so many of us kind of, yeah, I'm going to do it, especially if you just listen to it, but, you know, an American motivational speaker, you can do anything, just you're, you're mad and you can transform the universe. That's good. That was good. Good impression of me, good impression of me, Raston. Well, you know, like, it's got a motivational speaker has to have an American accent. It just, it doesn't",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0067",
+      "content": "work with, you know, it doesn't work with English accent. You know, it's usually main, transport the universe, you know, especially a Texas accent, which is what, which is what you used. You people do often set themselves, uh, unrealistic goals, and, uh, and then of course that piles up the pressure. And, you know, so, uh, it's often useful just to ask yourself, you know, on a scale of zero to 10, how realistic is this? Um, 10 is this is completely realistic. I'm definitely going to do it even if there's a zombie holocaust. I'm going to do it. There's no way I'm going to do it. I'm saying the words now, but it's not going to happen. I ask people to make sure it's at least a seven. If you can't score it a seven, then change it. Make it smaller, make it simpler, make it easier,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0068",
+      "content": "or do something different. This is my point setting yourself up to fail. Yeah. Yeah. Excellent point. What is the happiness trap? It did get dodged on me that I never asked you that question, but I want it. I want you to, can you, can you tie everything up in a bow that we talked about today and just answer what happiness trappers could do? You could also recut the interview. I think this is funny. I think this is funny. Yeah, no, I think this is good. This is good role modeling on your part of how we can kind of change direction at any point. And also it'll be a summary. Do you know what I mean? It's like a summary of everything we just talked about. Yeah. Yeah. Okay. So the happiness trap, both the book and the deck of cards. I mean, the name comes",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0069",
+      "content": "from the idea that popular ideas about happiness are misleading and inaccurate. And they're actually making it miserable if you base your life on those ideas. And the most common of these is the idea that happiness means feeling good. If you look in most dictionaries, happiness is defined as a state of pleasure or contentment. So if it's your notion of happiness, then there can be no such thing as lasting happiness. I mean, how long can a state of pleasure or contentment possibly you asked? And so people hold on to this idea and a link to that idea is the idea that if happiness is feeling good, that means I need to get rid of all the unpleasant feelings or the negative thoughts or the painful emotions, that's how I get to be happy. Both of those ideas will just make your life miserable because if you",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0070",
+      "content": "are going to live a full human life, living your values, behaving like a person you want to be doing what's important, then you're going to feel the full range of human emotions. You're going to feel the pleasant emotions of love, joy, and you're going to feel the painful emotions of fear and sadness and anger and guilt and so forth. You don't get one without the other. So if you asked me to define happiness, I would define it as living a rich full and meaningful life in which you feel the full range of emotions, both the pleasant and painful ones. But that's not what most people mean for happiness. Yeah, I think that's a nice summary. I mean, a lot of the themes we talked about today. You know, I'm known about you for quite some time. I'm glad we find a guy a chance to",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0071",
+      "content": "talk. Quite a few colleagues of mine in the field of positive psychology have told me that they think your book, The Happiness Trap is the best book written on happiness. Oh, wow. So I'm glad. You know, multiple people have told me that. So your name has been in my consciousness for a good number of years now. So it was nice to kind of get a refresh on you and to read these notes or these cards. I should say to read these cards and to talk to you. So thank you so much for being on my podcast. Oh, thank you. Thank you so well. You just made my day with that feedback. That's lovely to be here. That's true. Thank you. And it's lovely. If it's lovely to, I really enjoyed the interview. It's been great. And if you next time you see Sharon tell her",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0072",
+      "content": "I'm a huge fan. Oh, I will. Okay. Thank you. I'm Soledad O'Brien and on my new true crime podcast, Murder on the Toe Path, I'm taking you back to 1964 to the cold cakes of artist Mary Pincho Meyer. She had been shot twice in the head and in the back. It turns out Mary was connected to a very powerful man. I pledge you that we shall neither commit nor promote aggression. John S. Kennedy. Listen to Murder on the Toe Path with Soledad O'Brien starting April 23rd on the iHeart Radio app, Apple Podcasts or wherever you get your podcast. In 2020, a group of young women found themselves in an AI-fueled nightmare. Someone was posting photos. It was just me making. Well, not me, but me with someone on his body parts. This is Levitown, a new podcast from iHeart Podcasts, Bloomberg and Colliderscope about the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0073",
+      "content": "rise of deep fate pornography and the battle to stop it. Listen to Levitown on Bloomberg's Big Take Podcast, find it on the iHeart Radio app, Apple Podcasts or wherever you get your podcasts. I'm Clayton English. I'm Greg Lod. And this is season two of the world drugs bug. Sure. Last year, a lot of the problems of the drug war this year, a lot of the biggest names in music and sports. It's kind of not a standard a little bit, man. We met them at their homes, we met them at the recording studios. Stories matter and it brings a face to it. It makes it real. It really does. It makes it real. Listen to new episodes of the War on Drugs Podcasts season two on the iHeart Radio app, Apple Podcasts or wherever you get your podcast.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/The_Happiness_Trap_w_Russ_Harris.mp3"
+    }
+  ]
+}

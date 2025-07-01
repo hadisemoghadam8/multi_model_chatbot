@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "title": "Hope_For_Cynics_w_Dr_Jamil_Zaki",
+    "language": "en",
+    "type": "podcast",
+    "source_path": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+  },
+  "chunks": [
+    {
+      "chunk_id": "podcast_en_0001",
+      "content": "I'm Soledad O'Brien and on my new True Crime podcast, Murder on the Toe Path, I'm taking you back to 1964 to the cold cakes of artist Mary Pincho Meyer. She had been shot twice in the head and in the back. It turns out Mary was connected to a very powerful man. I pledge you that we shall neither commit nor promote aggression. John S. Kennedy. Listen to Murder on the Toe Path with Soledad O'Brien, starting April 23rd on the iHeartRadio app, Apple Podcasts, or wherever you get your podcast. In 2020, a group of young women found themselves in an AI-fueled nightmare. Someone was posting photos. It was just me making. Well, not me, but me with someone else's body parts. This is Levitown, a new podcast from iHeartPodcasts, Bloomberg, and Colliderscope, about the rise of deep-fate pornography and the battle to stop it. Listen to Levitown",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0002",
+      "content": "on Bloomberg's Big Take Podcast, find it on the iHeartRadio app, Apple Podcasts, or wherever you get your podcasts. I'm Clayton English. I'm Greg Lodd. And this is season two of The World Drugs, but I can't. Last year, a lot of the problems of the drug war this year, a lot of the biggest names in music and sports. This kind of started a little bit, man. We met them at their homes. We met them at the recording studios. Stories matter and it brings a face to it. It makes it real. It really does. It makes it real. Listen to the new episodes of The World Drugs Podcasts, season two. On the iHeartRadio app, Apple Podcasts, or wherever you get your podcasts. You know, cynicism infects our minds, but it also characterizes our language. We tend to gossip more and talk a lot about negative things and",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0003",
+      "content": "people. And I've been trying to temper that a lot. I try to catch people in the act of doing more like beautiful things and call them out. Talk about what they're doing and share it with other people. Yeah, call out beauty. Today we have Dr. Jamil Zaki on the Psychology Podcast. Dr. Zaki is a professor of psychology at Stanford University and the director of the Stanford Social Neuroscience Lab. Using tools from psychology and neuroscience, he and his colleagues examine how empathy works and how people can learn to empathize more effectively. In this episode, we take a deep dive into the content of his new book, Hope for Sinek's, the surprising science of human goodness. We discuss his idea of hopeful skepticism and how it's different from naive optimism. According to Dr. Zaki, hopeful skepticism honors humanity's strengths while confronting our weaknesses head on. We also",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0004",
+      "content": "discuss social shark attacks, tribal cynicism, and social savoring. This is an important episode, especially in light of the rise of cynicism we are seeing all around the world right now. So with that further ado, I bring you Dr. Jamil Zaki. Dr. Zaki, welcome to the Psychology Podcast. Thank you so much. It's great to be here. Thank you. It's great for you to be here on my end as well. I have been a follower of your work. Really excellent research, which have traditionally, what I associate with you is work on empathy and compassion, kindness, and social connection. But you've now written this new book, Hope for Sinek's, the surprising science of human goodness. So obviously there are still themes about goodness and kindness. But tell me about the cynicism part. Have you been noticing an increase in cynicism around the world? Happy to talk about it",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0005",
+      "content": "around the world. If it's okay, I'll start. Yeah, I'll start a little bit more personally, even than that. I started working on this project because as you said, Scott, I've been studying in essence human goodness for 20 years, how people act kindly are empathic and compassionate connections to one another, the ways that those connections lift us up as individuals and allow us to flourish. And I've become this sort of inadvertent ambassador for humanities, better angels, you know, people often turn to my writing to feel good about our species. And I love that role. And of course, I am such a staunch believer in the science. But you know, Scott, I don't know if you experience this with your research and writing as well. Sometimes just because something is in our heads doesn't mean it always leaks down into our hearts as well. And the entire",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0006",
+      "content": "time that I've been studying this, I've harbored this kind of dark secret, which is that even though I study and believe in human goodness, I sometimes have trouble accessing that belief myself. I sort of tend to be a pretty cynical person in my private life. And that got a lot worse during the early pandemic. So this project began as me exploring what was going on with me. If I can't have hope in people, given what I do, how could others? And I realized that as you're alluding to cynicism, this loss of faith in humanity has been a huge trend, not just in my life, but around the country and around the world. Well, I definitely see it too. I definitely see it too. I won't say that I am a cynical person, but I will say even with my already extreme optimism, it has decreased",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0007",
+      "content": "statistically significantly. It hasn't gone over to the cynicism red line of the spectrum. But it's decreased in the past couple of years. I think for real reasons. Yeah, I think cynicism absolutely can be warranted. And one of the things that I want folks to understand is that in writing about how cynicism harms us and how we can overcome it, I know way meant to blame people if they're feeling down and gloomy and generally not so positive about human nature. It is completely understandable, given so many trends that we see in our culture. So one thing that we see, for instance, in the data, is that cynicism tends to track inequality. So in places in the world that are more unequal and in times that are more unequal, people have a harder time trusting one another as well. So that's a macro force that absolutely has",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0008",
+      "content": "accelerated. We are living in breathtakingly unequal times. And it makes sense for people to feel untrusting. Corruption from elites like politicians can drive up cynicism. And so there, of course, are lots of forces that make it normal and sensible that we would lose faith. But it's also true that cynicism doesn't help those problems. It actually can make them worse. Yeah, it often does. And the opposite of cynicism is not optimism, right? Or is not blind optimism or, you know, on optimism not grounded in truth, right? So what is the opposite of cynicism? Let me just ask you that question. Yeah, it's a great question and it depends who you ask, right? If you ask a cynic what the opposite of cynicism is, they will very confidently tell you it's being naive and gullible. It's being a chump or a rub. You know, a cynic might",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0009",
+      "content": "say, yeah, it doesn't feel good to not have faith in people. But I'm a realist. It's the, but you know, if you're not cynical, you're not paying attention. And, you know, even non-synics have that stereotype when presented with the story of a cynic and a non-synic, 70% of people in surveys believe that the cynic is more intelligent than the non-synic. And 85% of people think that cynics are socially smarter that they'll be better at spotting liars, for instance, than non-synics. But it turns out that basically the opposite is true. You know, cynicism is stereotyped as really smart and wise. But it's really not. A cynics actually do less well in cognitive tests than non-synics. They have a harder time spotting liars than non-synics do as well. And I think part of that is because cynicism is a blanket assumption about people. And what's the opposite",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0010",
+      "content": "of a blanket assumption? It's not being naive, you know, blindly trusting people and blindly mistrusting people. Actually, I have a lot in common in that you're not responding to the data. You're not responding to what's in front of you. I think the opposite of both cynicism and naive trust is what I would call skepticism. Right? Skepticism is not thinking like a lawyer, not having a conclusion about people that you're trying to defend, but thinking like a scientist, being open to what people have to show you. And in that way, skeptics are able to learn more quickly and they're able to be more accurate about the world around them. I love that. In your new book, you call it hopeful skepticism, which you define as the realization that people are often better than we expect. Boy, do we need that more in our lives right now?",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0011",
+      "content": "Imagine if everyone, you know, just went around not being driven so much by their prior expectations based on someone's what they know about their political status, or they know about whatever demographic, you know, about them. I mean, in some ways, is it related to just looking at things with fresh eyes? I think that's exactly right. And, you know, it's looking at things with fresh eyes also knowing that a lot of the information that we have gotten so far, although compelling is just not accurate. You know, you talked about people connecting across identity differences, you know, which is a huge source of cynicism in our culture. It turns out that a lot of the intel that we are fed about people who are different from us is just playing wrong. And if you go on social media or look at the news, you will receive a",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0012",
+      "content": "very strong picture of what the average person that you disagree with is like. You'll be taught that that person is extreme and anti-democratic, even violent. And of course, there are truly extreme and anti-democratic and violent people out there. Of course, there are. But the question is, is the average person that you disagree with like that? And the evidence is clear that they're not. So I think it's, on the one hand, hopeful skepticism requires, as you rightly say, looking at the world with fresh eyes, but it also requires interrogating and understanding to use a sort of statistical term that are priors, our assumptions are based usually on bad intel, not bad in that it's negative, bad in that it's inaccurate. Your evidence might suggest something. But what if you're in an environment where people really are assholes all around you and that's your evidence? Your evidence",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0013",
+      "content": "space can't be like everyone in the world and then it has to be what you're in your environment that you interact with on a daily basis, right? Of course, of course. And I think that each of us lives in a different version of the world. Our environments are each unique to us. And of course, if you live in a place which is highly competitive and people are assholes to each other, as you say, then that's going to bring out that side of you. You know, interestingly though, Scott, the time that people are at least cynical is when they focus on their local environments. So for instance, if you ask people, can most people be trusted? People are pretty negative. You know, only about a third of Americans think most people can be trusted. In some countries, it's like 6% of people believe most people can",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0014",
+      "content": "be trusted. But then if you ask, can the people in your neighborhood and your local community be trusted? In the US, more than twice as many people trust their neighbors, trust the people that they actually see in real life compared to other people in the abstract. Yeah. And the same goes around the world. So I agree with you. If you're surrounded by assholes, by all means, don't trust them. But most of us actually are not surrounded by assholes. We just infer that assholes are everywhere else because of what we see in the media. Yes. That's really interesting. That's really interesting. I'm warning a lot from your book. And so let's just go through some stuff because I'm sure our audience will learn as well. So I recently I'd castly kill them on my podcast and she talked about this loneliness, sort of epidemic we having",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0015",
+      "content": "and the importance of social health. Do you think hopeful skepticism can help us connect more with others? Absolutely. First, I'm a huge fan of castlies work and it's this idea of social health is so important. And I think that a lot of what castly and people like Vivek Murphy, the surgeon general of focus on is he there's this loneliness epidemic we're just disconnected and we need to focus on strategies for connecting more effectively and I completely agree. But I think that there is a missing piece to the loneliness epidemic which is that we have dim expectations of other people. And because we do we have dim expectations of how our interactions with them will go. So you can give people all sorts of opportunities to connect to have conversations with strangers to deepen their connections with friends. But they're not going to take those connections",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0016",
+      "content": "if they don't think that they'll produce what they want. And research from all sorts of people, Nick Eppley, Julianne Schroeder and so forth, the whole community of scientists at this point, talk about what we call under-sociality. That is, if you ask people what will a conversation with a stranger feel like? They say oh my god it's going to be so cringe and awkward and terrible. If you ask people what would it be like if you express gratitude to your friend? They say oh that would be awkward too. There's all these forecasts that we have where we think conversations will go poorly. And I think that's because we underestimate how friendly and warm and open other people are. We think that they don't want to contact with us. And so when we overcome that cynicism, we open new doors to improving our social health in ways",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0017",
+      "content": "that Cassley and others write about. How does this relate to the idea that you talk about in your book? You call it social savoring. Yeah, the idea of savoring in general is that it's very easy to pay attention to threatening and harmful experiences that we have and to remember them. But oftentimes we pay a lot less attention to the good stuff. And that's, you know, it makes sense from a survival perspective. It's safe to ignore a sunset but not a tsunami, right? We have to focus on threats. But it's tragic for our lives psychologically. And so savoring is just, it's related to gratitude but different. It's enjoying the good things while they happen, not reflecting on the good things after they've happened. And what I, one thing that I try to do with my kids a lot is social savoring. That is focusing on the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0018",
+      "content": "beautiful things that people do every day. You know, my friend Dacker Keltner studies this sense of vastness and connection with the greater whole. And when you think of, I don't know, I think of the pale blue dot from Carl Sagan or, you know, standing in a grove of redwood trees. But but Dacker finds that the most common illicitor of awe, the most common experience that makes people feel awe is what he calls moral beauty. It's the everyday wonder of human goodness. And, and I think to me, that type of awe and that type of social savoring is great because you don't have to drive to a redwood forest or hike Mount Everest, you know, you can just look at your community. And there's such beauty in what people do every day that is often missed. I love that. And, and, and Dacker has worked with",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0019",
+      "content": "Jonathan Hight who studies moral elevation, trying to think of the associations between moral beauty and moral elevation. They must be quite close in in in concept. But, you know, we can find the moral beauty in the most unlikely of things. Maybe this is what your point is. Maybe, maybe hope hopeful skepticism can allow us to see more moral beauty where we would least expect it. I think that's right. And, you know, oftentimes the beauty of human kindness is most profound, not in beautiful times or places, but in dark and difficult times and places, in moments of adversity in communities that are struggling. I write a lot about this group called the Solutions Journalism Network. They're a group of reporters who write stories about problems, real problems, but also people trying to pursue solutions. So these are positive news stories, but it's not like, you know,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0020",
+      "content": "a squirrel, you know, jumped through hoops or, you know, someone donated a car to somebody else. It's it's groups of people helping one another address problems like women prisoners, for instance, creating job and education programs inside prisons. And, oftentimes, these are acts of as you put it moral beauty and moral elevation that occur again in places that are stereotypically very ugly in our culture and in our world. This is Courtside with Laura Carrente, the podcast that's changing the game and breaking down the business of women sports, like never before. I'm Laura, the founder and CEO of Deep Blue Sports and Entertainment. You're inside source on the biggest deals, power moves and game changers, writing the playbook on all things women sports. From the heavy hitters in the front office to the powerhouse women on the pitch, we're talking to commissioners, team owners, influential athletes and",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0021",
+      "content": "the investors betting big on women sports. We'll break down the numbers, get under the hood and go deep on what's next. Women sports are the moment. So if you're not paying attention, you're already behind. Join me, Courtside, for a front row seat into the making of the business of women sports. Courtside with Laura Carrente is an I Heart Women Sports production and partnership with Deep Blue Sports and Entertainment. Listen to Courtside with Laura Carrente starting April 3rd on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. Brought to you by Novartis, founding partner of I Heart Women Sports Network. I'm Clayton English. I'm Greg Lod. And this is season two of the War on Drugs by a Care. We are back in a big way. In a very big way, real people, real perspectives. This is kind of star-studded a little",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0022",
+      "content": "bit, man. We got Ricky Williams, NFL player, Highs Metrope winner. It's just the compassionate choice to allow players. All reasonable needs to care for themselves. Music stars, Marcus King, John Osborne for Brothers Osborne. We have this misunderstanding of what this quote unquote drug thing. Benny the butcher. Brent Smith from Shine Down. Got B Reel from Cypress Hill. NHL Enforcer Riley Coate. Marine Corvette. MMA fighter. Liz Carremotion. What we're doing now is working and we need to change things. Stories matter and it brings a face to it. It makes it real. It really does. It makes it real. Listen to new episodes of the War on Drugs podcast season two. On the I Heart Radio app, Apple Podcasts are wherever you get your podcast. And to hear episodes one week early and add free with exclusive content, subscribe to Lava for Good Plus on Apple Podcast.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0023",
+      "content": "In 2020, a group of young women in a tidy suburb of New York City found themselves in an AI field nightmare. Someone was posting photos. It was just me naked. Well not me but me with someone else's body parts on my body parts that looked exactly like my own. I wanted to throw up, I wanted to scream. It happened in Lever Town, New York. But reporting this series took us through the darkest corners of the internet and to the front lines of a global battle against deep fake pornography. This shouldn't be a legal book. What is this? This is a story about a technology that's moving faster than the law. And about vigilantes trying to stem the tide. I'm Margie Murphy and I'm Olivia Carville. This is Lever Town, a new podcast from I Heart Podcasts, Bloomberg and Colitiscope. Listen to Lever Town on Bloomberg's",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0024",
+      "content": "Big Take podcast. Find it on the I Heart Radio app, Apple Podcasts or wherever you get your podcasts. I really love that. My brain is going off in lots of different directions because I study something called pathological altruism. I'm realizing it's a very cynical research that I do on San Pathological altruism. It's like cynical in itself to study that. I also study something I call healthy selfishness, which I say is the opposite of pathological altruism. And these are both paradoxical forms of selfishness. I actually love to hear more about that because I think that sometimes, well tell me more about pathological altruism because I bet that it might be related in some ways to what we're talking about. It is related because I fear it is a cynical take on some people's helping behaviors. Research has shown that some people have are well too excessive",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0025",
+      "content": "in their helping where I call it intrusive helping for the everyday public and then I don't want to pathologize it. Barbara Oakley called it pathological altruism, but I like calling it intrusive helping. Where you're really just, you're helping to feed your own ego and you're not really dealing with the real felt needs of another person and sometimes you're actually causing harm to someone else. But I think that taking a lens of hopeful cynicism, I must remind myself to not oversee it, not see it where it doesn't exist. Well, that's absolutely fair, but I think that this idea of intrusive, I would say maybe self-centered altruism as well, is actually really related in some ways to cynicism. If I may, I struggled a lot with cynicism, well, I struggled with it my whole life, but one way that it came out for me was as a",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0026",
+      "content": "form of insecurity. I really believed that in order for people to like me, in order for them to be there for me, I needed to be providing value. I kind of had this as a kid and then as a young adult, this sort of sadly transactional view of relationships and what that induced me to do was to try to be of service in this kind of reflexive, almost itchy way. I always wanted to make sure I was providing value to people because I was sure that the minute that I stopped, they would disappear from my life. And that was a form of cynicism, right? Not believing that people will be there if you're not nice or entertaining every second of every day, is a cynical perspective that in my case probably produced a fair amount of intrusive, unwanted, unhelpful attempts at altruism. I really like",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0027",
+      "content": "that you made that connection. Yes, I'm glad I continued then. Okay. Well, how does that relate to this reciprocity mindset? Right? Because there seems to be something that maybe self-transcendent about. But I don't know. I don't know. You tell me, what is a reciprocity mindset? How does that relate to this? A reciprocity mindset is an attempt to understand and own our influence on other people. One feature of cynicism, but really, as you know, Scott of social psychology more generally, is that we tend to stereotype other people. We tend to imagine that when they act a certain way, it's just because of who they are, not because of the situation that they're in, even though situations exert vast power over how people behave. And of course, when you're interacting with somebody, a key part of their situation is you and the way that you treat them.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0028",
+      "content": "And research shows over and over again that we think of people as either trustworthy or untrustworthy. But the fact is that when we act cynically, when we mistrust people, we actually bring out their least trustworthy side. And when instead we put faith in people, they're more likely to step up. This is what economists call earned trust. So with my graduate student, Eric Neumann, we examine, well, what happens if you explain that to people? What happens if you tell people, hey, you know, your decision to trust is not just about the risk that you take on in a social situation. Your trust is a gift that you give to somebody else and one that they are likely to repay. And we found that simply learning that, simply being aware of our influence on other people, induced folks to be more trusting, more open and more vulnerable,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0029",
+      "content": "and that in turn caused other people to be more trustworthy. So if cynicism creates all of these toxic, self-fulfilling prophecies in our social lives, then hopeful skepticism through this reciprocity mindset can produce, I suppose, more virtuous cycles. It's so good. It reminds me of the Barbara Fedorx and upwards spirals of the heart research. Yes, absolutely. It's got to be related somehow, even within the similar systems in the body. Yeah. As they found, you know, like the vagus nerve. So cool. Also, big shout out to Eric Newman, who I didn't, it was not aware it was a student of yours, but he is at Stanford. Now it all makes sense. It makes sense now. And he has a, I believe, podcast, right? Does he have a podcast? That's right. He hosts along with some other trainees at Stanford, the Stanford Psychology Podcast. Yes, I've been on",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0030",
+      "content": "his podcast before. Yes, I mean, you've got the original psychology podcast, and they draw a lot of inspiration from you. That's kind of you to say that. I was excited to be on his show, and I think he's doing great work. And it makes complete sense that he's working with you. So the world makes sense. What are social shark attacks? Social shark attacks are, again, this idea that we focus more on the negative than the positive. And so we overestimate the likelihood of negative events. So you might know that, you know, we would call this in jargony terms, the availability heuristic, right? That vivid, but rare events are judged as more common than they truly are. And one great example of this is shark attacks, right? So shark attacks are vanishingly rare. You are 50 times more likely to be struck by lightning than eaten",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0031",
+      "content": "by a shark. And yet, you know, movies like jaws and open water make us feel like, wow, this is really alive in my mind as a possible way that my life could end. That's certainly true for me. I'm terrified of sharks, but but social shark attacks are the idea that, again, when we consider things like conversation with others or connections with others, there are really bad things that could happen, right? Every time you decide to trust somebody, you're placing a gamble on them. And of course, we've all lost a bet or two in our lives, right? We've all been betrayed or disappointed by people. And that's inevitable. But I think that for cynics, the idea is, well, this is so likely to happen that it's not worth placing that bet in the first place. And that's how social shark attacks, this sort of availability or",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0032",
+      "content": "vividness of betrayal and awkward encounters and all the things that we don't want to happen in the social world, drive us away from opportunities to actually have great interactions with other people. Yeah, it's really clear to me all the ways that people really can get in their own way through these narratives they're telling themselves about people in their environment, people in general. And it has just struck me now in a way that it didn't strike me when I was reading your book, although I don't know why. The linkage between the research program we initiated on the light triad and your research, maybe you might want to include our scale in one of your studies and we could collaborate. It's only a 12 item scale, so if you can sneak it in, you can just sneak it in one of your studies. But one of the",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0033",
+      "content": "facets of the light triad is, have you heard of the light triad, by the way? Have you heard of this? I have, yeah. But the details escape me right now. I'd love to have a refresher on it. Of course, it's not the opposite of the dark triad, which you know, the dark triad's narcissism, psychopathy and macchameliism, but it's orthogonal to it. One of the facets of the light triad is what we call contentism, which is not trying people as a means to an end, but trying people as onto themselves as just whatever you're not trying to get something out of them, you admire them. So that one thing seems to map on nicely to what you're talking about with seeing moral beauty and moral goodness and others. Well, actually another facet relates more to that. We have humanism seeing the dignity and worth of each",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0034",
+      "content": "individual. Maybe that maps on to the moral beauty. But then the third one is the one I really want to get to here. And that's a faith in humanity. Oh, and the whole facet there of the light triad, that member out of the three is all about, recognize the imperfections of humans, but still having faith in humanity, in the goodness of humans. And so this is a personality trait we've been studying. And I've found all sorts of things that we, I'd like to believe we wouldn't have found if we didn't create this construct. I love that. That's an amazing scale. And I mean, all three facets are so interesting in their own ways, but I completely agree with you that this faith in humanity almost seems like an anti-synicism score. Yes. I like the way you put that. I like the way you put that.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0035",
+      "content": "I'm just realizing that now as well. Yeah, and anti-synicism. I mean, cynicism hurts people so much. I mean, as we've talked about, it diminishes our opportunities for connection. And it leaves us less healthy. So cynics, for instance, are more likely to suffer from heart disease, diabetes. They die younger than non-synics. And I've always thought that that's because they have trouble accessing the nourishment of social connection, right? That if social connection is the psychological calories that we need to flourish, it's almost like cynical people because they have no, they don't have faith in humanity. Can't metabolize those calories. Have you found that the faith in humanity sub-scale of the light triad? Does that track people's well-being, their health? Have you broken it out from the rest of the scale to examine that? For a great question, we have only looked at the correlation between the total",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0036",
+      "content": "score and health and well-being. But I haven't done a regression where I like controlled for the other two and single that out. But I think that would be a fun analysis, for sure. I'll send you the paper or some papers. And we can, I don't have to keep up the conversation with you. That could be really interesting. For sure. If it's more related to physical health and mental health, then maybe the other two. The thing is it's 12 items total. So that's what four items per sub-scale. So the reliability is so much better with the total score. So that's why we focus on it. Of course. That's some shop talk. Love shop talk. That's shop talk. Cool. This is great. I would love to talk about this concept tribal cynicism. I love that you bring that into your book because that for sure I am",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0037",
+      "content": "seeing everywhere. So tell our audience on about tribal cynicism. Tribal cynicism is the idea that although humanity has lost faith in itself over the last 50 years, we have focused a lot of that loss of faith and a lot of active contempt on anybody who we disagree with. And I just want to be really upfront here when I say that disagreement in our country and beyond is real. When I say that we are cynical in our politics, I do not mean that everything is great and you should just put a smile on your face. There is enormous division and real danger in our political and cultural moment as there are in so many moments in our culture. So to say that cynicism is hurting is not to say that everything is great. I just want to make that clear up front. That said, it's also",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0038",
+      "content": "very clear that when asked about the when asked to imagine the average person that we disagree with, we actually imagine somebody who is totally different than the average person we disagree with. So research from my friend here at Stanford, Rob Willer and many others finds that when asked, well, you know, a Democrat asked about the average Republican or a Republican asked about the average Democrat, they'll answer that that person is more extreme than 80% of people who are really on the other side. They will believe that that person hates them twice as much as the average person really does. They think that the average person they disagree with twice as anti-democratic four times as violent as they really are. So again, this is not to say that there are not real extreme and dangerous and violent people out there, but when we confuse those people",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0039",
+      "content": "with the majority, two things happen, one, we give those people way more power than they deserve. There's a tiny minority of our culture that are what I would call conflict entrepreneurs who thrive on a really broken, extremely toxic public sphere. Those people are really in the driver's seat right now and they don't need to be. There's a silent super majority of people who want the opposite, who want peace and greater compromise. And if you look at the actual data, there's so much room for that compromise because we imagine that the other side is super extreme and we're wrong about most of them. And again, that's a tragedy because it turns into a self-fulfilling prophecy of people thinking that they need to be hateful too, that they need to escalate conflict. But there's good news underneath the bad news, which is that if we can, as",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0040",
+      "content": "you put it beautifully earlier, see the world with fresh eyes and actually open ourselves to the data about what people are really like, open ourselves even to those conversations that we might not want to have across disagreement, then there's a lot of middle ground. So as difficult as cynicism has made our politics, overcoming it can, I'm not going to say it's going to fix our problems, but it can at least open a door to a political world that maybe most of us want. This is Courtside with Laura Carrente, the podcast that's changing the game and breaking down the business of women's sports like never before. I'm Laura, the founder and CEO of Deep Blue Sports and Entertainment. You're inside source on the biggest deals, power moves, and game changers, writing the playbook on all things women's sports. From the heavy hitters in the front office",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0041",
+      "content": "to the powerhouse women on the pitch, we're talking to commissioners, team owners, influential athletes and the investors betting big on women's sports. We'll break down the numbers, get under the hood, and go deep on what's next. Women's sports are the moment. So if you're not paying attention, you're already behind. Join me, Courtside, for a front row seat into the making of the business of women's sports. Courtside with Laura Carrente is an I Heart Women's Sports production in partnership with Deep Blue Sports and Entertainment. Listen to Courtside with Laura Carrente starting April 3rd on the I Heart Radio app, Apple Podcasts, or wherever you get, your podcasts. Presented by Capital One, founding partner of I Heart Women's Sports. I'm Clayton English. I'm Greg Lod. And this is season two of The War on Drugs by a Carey. We are back in a big way. In a",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0042",
+      "content": "very big way. Real people, real perspectives. This kind of started at a little bit, man. We got Ricky Williams, NFL player, Hazmatrope winner. It's just the compassionate choice to allow players all reasonable needs to care for themselves. Music stars, Marcus King, John Osborne from Brothers Osborne. We have this misunderstanding of what this quote, unquote, drug ban. Benny the butcher. Brent Smith from Shine Down. Got B Reel from Cybers Hill. NHL Enforcer Riley Co-Tay. Marine Corvette, MMA fighter. Liz Carremotion. What we're doing now isn't working and we need to change things. Stories matter and it brings a face to it. It makes it real. It rarely does. It makes it real. Listen to new episodes of The War on Drugs podcast season two. On the I Heart Radio app, Apple Podcasts, or wherever you get your podcasts. And to hear episodes one week early and add",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0043",
+      "content": "free with exclusive content, subscribe to Lava for Good Plus on Apple Podcast. A group of young women in a tidy suburb of New York City found themselves in an AI field nightmare. Someone was posting photos. It was just me naked. Well, not me, but me with someone else's body parts on my body parts that looked exactly like my own. I wanted to throw up. I wanted to scream. It happened in Lever Town, New York. But reporting the series took us through the darkest corners of the internet and to the front lines of a global battle against deep fake pornography. This should be illegal, but what is this? This is a story about a technology that's moving faster than the law and about vigilantes trying to stem the tide. I'm Margie Murphy and I'm Olivia Carville. This is Lever Town, a new podcast from I Heart",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0044",
+      "content": "Podcasts, Bloomberg and Colitiscope. Listen to Lever Town on Bloomberg's Big Take podcast. Find it on the I Heart radio app, Apple podcasts or wherever you get your podcasts. It is so profound what you just said. I mean, obviously Trump's a conflict entrepreneur. Like, you can't deny it. But what I think is deeper and more interesting is that we can be fooled into thinking that that therefore means all his followers are a conflict. Entrepreneurs. This is what I'm getting from what you're saying. I think maybe a real hopeful skepticism would be to see the reality of the matter, which is in a lot of ways, you know, they are, he's bringing out certain instincts in people. But that's not maybe what they really want. Yes. You know, like, yeah, yeah. Is that fair? It's more than fair. I think it's precise. Scott, you nailed it. You",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0045",
+      "content": "know, I think that there are people who thrive on conflict. There are people who want us to mistrust each other. And you know, this reminds me of another point. Oftentimes when I talk about hope, trust me, I get a lot of criticism about this stuff. I get told, you know, this is so naive, but I also get told sure. So cynical. Yes. Just tell them they're too cynical. I get told all the time. Yeah, hope easy for you to talk about. You're a professor at some fancy university. You know, your things are going well for you. So you can talk about hope, but it's harder for the rest of us. Hope is complacent. Hope is sort of part of the status quo. Synicism is radical. Synics call people out there. They're the ones who create change. The opposite is true, Scott. It turns out that",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0046",
+      "content": "cynics actually bow down to the status quo because they don't think that anything else is possible. There are so many systems and structures in our culture that are deeply broken. But if you think that they represent who we really are, then there's no turning away from them. There's no alternative. And people who are conflict entrepreneurs love for us to think that. Right? People in power, people who stir the pot, who have extreme views, they thrive when we mistrust one another. There's an exhausted majority under the surface that doesn't realize it's a majority. And our cynicism stops us from realizing all we have in common. And that's great for people who want to keep, I mean, I sound conspiratorial here, but for people who want to control, for people who want to control us, cynicism is long been a tool of the status quo. Wow. That",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0047",
+      "content": "is, you're dropping some truth bombs. Yes, yes, you are. There is a underlining and posted assumption that there's cynicism for people who want to make a change. That's how I would kind of put it. I mean, it's incredible. This sense of, you know, oh, it's cringe to want something new. It's cringe to believe in something. I think that young people are rejecting that perspective now. You know, I write in the book a lot about climate change, which is one of the issues that makes me most hopeless and most cynical. And it turns out that the more I got into the data, the more that, well, my hopelessness is not helping this cause at all. It's actually hurting. You know, it turns out that if you ask, you know, representative sample of Americans, how many of your fellow citizens support aggressive policy to protect the climate,",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0048",
+      "content": "people will say, ah, 35, 40%. The actual number is 65%. Right. So we are part of a super majority that we don't realize is all around us. And having faith in each other now is intimately related to having hope for the future. Because what is the future if not something that we construct together? You know, I, there's this hashtag that young climate activists use that I think is a sort of, it's a clap back to cynicism, right? It's okay, doomer. You know, of course, there's, there's no, yeah. Okay, boomer is what you tell your uncle when they say something that you find to be, to be silly. Okay, doomer is this idea that fine, you want to give up on fixing or at least mitigating the climate crisis, you go ahead and give up. We can't afford to, you know, we have to keep on",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0049",
+      "content": "fighting. And I think that the young people I interact with at least and the ones that I, that I, that I've, that I've read about in, and, and learned about in researching this book are full of hope not as a complacent feeling, but as a fierce desire for something better. You sound like Obama. Let me be clear. I believe that they can make change that hope is possible. Okay, so I, another part of your book I really like is, is, is linking it to, to resiliency. You know, a whole section on that. So can you talk a little bit about how, and how, and if we talk about the opposite end, maybe how cynics are not as resilient to stress as hopeful skeptics. Yeah, and I think this is really related, Scott, to your work as well, you know, on, on sort of how we",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0050",
+      "content": "can access our values and sort of what is important to us and what allows us to transcend. So as we were talking about, I would say that cynics basically, they can't access the joy and the meaning of social connection because they just can't trust other people or at least they don't want, they choose not to trust other people. And one of the biggest things that helps us through stressful times is each other, right? There's this saying that trouble shared is trouble halved. And that's true. There's this whole literature that, that you know, very well, I'm sure, on stress buffering, that when, when I go through a difficult time, if there's somebody there supporting me, physiologically and psychologically, that stressor doesn't feel bad as, as bad, and it doesn't feel bad for as long. It turns out that cynical people don't show that effect. So there's",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0051",
+      "content": "one classic and to me, a really sad study where people were asked to give an extemporaneous speech on a topic they didn't know very much about, which of course is enormously stressful. And half of these folks had in essence a cheerleader, a stranger was with them as they prepared saying, hey, you got this, you can do it. I'm in your corner and half of them didn't. And for non-synics, having that person by your side was immensely helpful. Those people, their blood pressure, for instance, rose only half as much than people who were alone during the stressful task. But for cynics, there was no effect. They were not buffered in their stress by the presence of a supportive other person. It's so interesting. Yeah. That's so interesting. Do you think that cynics are going to listen to this episode and change? I don't know. Or are",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0052",
+      "content": "they going to be cynical about what you're saying? I mean, I feel I've been struggling with this or I guess, interacting with this type of idea around empathy for 20 years. You know, empathic folks who like empathy, like empathy, and folks who don't think it's stupid and warm and fuzzy. And a big perspective of mine has been, hey, you don't have to like me or think that I'm right. But let's look at the data. You know, if you think that empathy is a weakness, here are 25 studies that suggest that it might be a strength. So it's up to you whether you want to internalize the science or not. I think the same is true for cynicism and hopeful skepticism. You know, I don't expect people to believe me, but I hope that they can focus on the research. And you know, one other thing",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0053",
+      "content": "that I'll say is that as a recovering cynic myself, I don't think that cynics are the way they are all the time because that's just what they believe. I think a lot of cynics have been hurt in the past. And so it's a much more emotional choice. It's not a rational choice to say, I'm deciding that I think people are terrible. It's more a response that, hey, I'm trying to stay safe here. I've been hurt and I don't want to be hurt again. So to cynics who are coming from that place, I would say, I feel you. I'm right there with you. But sometimes our cynicism can hurt us yet again in ways that are hard to detect by cutting us off from really beautiful parts of life. Well, I love that. So I'm trying to wrap my hand around your recommendation for societal change",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0054",
+      "content": "then. You're not appealing to the cynics specifically. You are, as I see it, doing two things. One, you are trying to install the merits of cultivating more hopeful skepticism in your life and showing how it can contribute to social progress and inspire change. And you're giving people steps to implement more hopeful skepticism in their lives wherever they are in the spectrum. Is that a fair, accurate assessment of what you're trying to do? I literally could not have put that better myself. Scott, that's insane. No, it seems like that's the case. So then in that case, can you just kind of end our interview today, telling people what small steps they can take today to cultivate more hopeful skepticism to inspire social change? Absolutely. Within themselves and others. Yeah. I think that's a great place to go. So I try to work on my own cynicism",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0055",
+      "content": "in three steps. The first is cognitive. And here I draw tools from CBT, cognitive behavioral therapy. I try to fact check my cynicism. I try to be skeptical about my own cynicism. So if I meet somebody and I immediately feel myself becoming suspicious or mistrustful, I'll interrogate that feeling. I'll say, wait a minute, Zachi, where is this coming from? What data do you have to back up this internal case that you're building against this person? And oftentimes the answer is none. I have no data. It's just an instinct. But guess what? Not all of our instincts are perfect. Our instincts include liking and trusting people who look like us, more than people who don't look like us. Is that a gut feeling that we want to follow? Of course not. So I try to, again, be really skeptical and be clear on what I know",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0056",
+      "content": "and what I don't know. Nice. I then try to take different actions. One thing that I've tried to do a lot more since starting this project that has helped me a lot is taking little leaps of faith on people. Now this is not to say that I'm like sharing my bank information with a prince who's going to wire me $14 million or anything like that. It's more that I realize that our default is to be really risk averse in the social world. And sometimes taking chances on people does a bunch of different things. It opens you to new opportunities. And it also gives other people a chance to earn your trust, to step up and be a better version of themselves. And then the last thing I'll say is that I try to share differently. You know, cynicism infects our minds. But it also characterizes",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0057",
+      "content": "our language. You know, we tend to gossip more and talk a lot about negative things and people. And I've been trying to temper that a lot. I try to catch people in the act of doing more orally beautiful things and call them out. Talk about what they're doing and share it with other people. Yeah, call them beauty. That's right. Yass. Yass. Oh man. Jamil. Jamil. It is so lovely to connect with you again. I have remained all this time a great fan of your work. But I am also a minor of you as a human. So thank you for coming on the psychology podcast. That's very kind, Scott. It's great to see you always. And I really appreciate you having me on. This has been delightful. I'm Soledad O'Brien. And on my new true crime podcast, Murder on the Toe Path, I'm taking you back",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0058",
+      "content": "to 1964 to the cold cakes of artist Mary Pincho Meyer. She had been shot twice in the head and in the back. It turns out Mary was connected to a very powerful man. I pledge you that we shall neither commit nor promote aggression. John S. Kennedy. Listen to Murder on the Toe Path with Soledad O'Brien, starting April 23rd on the I Heart Radio Appal podcast or wherever you get your podcast. In 2020, a group of young women found themselves in an AI field nightmare. Someone was posting photos. It was just me making. Well, not me, but me with someone else's body part. This is Levitown, a new podcast from I Heart Podcasts, Bloomberg and Colliderscope about the rise of deep fate pornography and the battle to stop it. Listen to Levitown on Bloomberg's Big Take Podcast. Find it on the I Heart Radio App, Apple",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    },
+    {
+      "chunk_id": "podcast_en_0059",
+      "content": "podcasts or wherever you get your podcasts. I'm Clayton English. I'm Greg Lott. And this is season two of The War on Drugs by Greg. Last year, a lot of the problems of the drug war this year, a lot of the biggest names in music and sports. This kind of started a little bit, man. We met them at their homes, we met them at the recording studios, stories matter and it brings a face to it. It makes it real. It really does. It makes it real. Listen to the new episodes of The War on Drugs Podcasts season two. On the I Heart Radio App, Apple Podcast or wherever you get your podcast.",
+      "source": "/home/hadise/chatbot_env/scripts/../data/data_sources/podcasts/en/Hope_For_Cynics_w_Dr_Jamil_Zaki.mp3"
+    }
+  ]
+}
